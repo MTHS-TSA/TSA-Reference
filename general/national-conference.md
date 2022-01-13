@@ -1,6 +1,6 @@
 ---
 layout: default
 title: National Conference
-parent: General
+parent: General Information
 nav_order: 1
 ---
