@@ -1,3 +1,8 @@
+title: TSA Reference
+description: An open resource for learning about TSA
+baseurl: "/TSA-Reference"
+url: "https://j-nac.github.io/"
+
 remote_theme: pmarsceill/just-the-docs
 
 gh_edit_link: true
