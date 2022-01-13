@@ -23,7 +23,7 @@ nav_order: 1
 
 ## Overview
 
-This guide was created for the [Coding MS challenge](https://j-nac.github.io/TSA-Field-Guide/posts/CodingMS/).
+This guide was created for the [Coding MS challenge](https://j-nac.github.io/TSA-Reference/middleschool/coding-ms.html).
 Answer the questions for practice.
 Don’t worry too much about this. You just need a general idea of all these things. Around 70% knowledge and you should pass easily.
 
