@@ -6,8 +6,8 @@ url: "https://j-nac.github.io/"
 remote_theme: pmarsceill/just-the-docs
 
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "TSA Reference on GitHub":
+    - "//github.com/j-nac/TSA-Reference"
 
 back_to_top: true
 back_to_top_text: "Back to top"
