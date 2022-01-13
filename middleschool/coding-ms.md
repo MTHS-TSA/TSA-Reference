@@ -7,6 +7,18 @@ nav_order: 1
 
 # Coding MS
 
+- [Coding MS](#coding-ms)
+  - [Overview](#overview)
+  - [Rules](#rules)
+    - [General](#general)
+    - [Test](#test)
+    - [On-site Challenge](#on-site-challenge)
+  - [How to Win](#how-to-win)
+    - [Test](#test-1)
+    - [On-site Challenge](#on-site-challenge-1)
+  - [Additional Tips](#additional-tips)
+  - [Examples](#examples)
+
 ## Overview
 
 Participants take an hour-long written test to demonstrate programming knowledge. The top 12, in a 2-hour on-site challenge, create a game in Scratch given a prompt constraints.

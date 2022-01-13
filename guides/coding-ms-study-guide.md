@@ -7,6 +7,20 @@ nav_order: 1
 
 # Coding MS Study Guide
 
+- [Coding MS Study Guide](#coding-ms-study-guide)
+  - [Overview](#overview)
+  - [Computer Hardware](#computer-hardware)
+  - [Encodings](#encodings)
+  - [Units of Measure](#units-of-measure)
+  - [Firmware](#firmware)
+  - [How programming languages work](#how-programming-languages-work)
+  - [Programming languages](#programming-languages)
+  - [Variable types](#variable-types)
+  - [Specific coding terms](#specific-coding-terms)
+  - [General coding terms](#general-coding-terms)
+  - [Internet](#internet)
+  - [Operating systems](#operating-systems)
+
 ## Overview
 
 This guide was created for the [Coding MS challenge](https://j-nac.github.io/TSA-Field-Guide/posts/CodingMS/).

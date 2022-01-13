@@ -7,6 +7,17 @@ nav_order: 3
 
 # Webmaster HS
 
+- [Webmaster HS](#webmaster-hs)
+  - [Overview](#overview)
+  - [Rules](#rules)
+  - [How to Win](#how-to-win)
+    - [Organization](#organization)
+    - [Selecting a Stack & Frameworks](#selecting-a-stack--frameworks)
+    - [Designing the Website](#designing-the-website)
+    - [Documentation](#documentation)
+  - [Examples](#examples)
+  - [Additional Resources](#additional-resources)
+
 ## Overview
 
 ## Rules

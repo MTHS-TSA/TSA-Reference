@@ -7,6 +7,21 @@ nav_order: 2
 
 # Video Game Design MS
 
+- [Video Game Design MS](#video-game-design-ms)
+  - [Overview](#overview)
+  - [Rules](#rules)
+    - [General](#general)
+    - [Submission & Interview](#submission--interview)
+    - [Grading](#grading)
+  - [How to Win](#how-to-win)
+    - [Process](#process)
+    - [Tools](#tools)
+    - [Documentation](#documentation)
+    - [Interviews](#interviews)
+  - [Additional Tips](#additional-tips)
+  - [Examples](#examples)
+  - [Additional Resources](#additional-resources)
+
 ## Overview
 
 Teams compete in creating a video game. Judges will grade the game based on a variety of factors such as overall appeal, creativity, and technical difficulty. Semi-finalists will then be interviewed by judges. The team with the most points wins.

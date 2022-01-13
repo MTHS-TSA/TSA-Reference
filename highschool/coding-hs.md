@@ -7,6 +7,14 @@ nav_order: 1
 
 # Coding HS
 
+- [Coding HS](#coding-hs)
+  - [Overview](#overview)
+  - [Rules](#rules)
+  - [How to Win](#how-to-win)
+  - [Additional Tips](#additional-tips)
+  - [Examples](#examples)
+  - [Additional Resources](#additional-resources)
+
 ## Overview
 
 The TSA Coding event is an on-site event where teams of 1-2 people compete against other teams in a 2-hour coding challenge. The challenge will usually consist of 5 problems.

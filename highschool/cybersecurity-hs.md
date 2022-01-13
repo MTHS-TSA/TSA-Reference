@@ -7,6 +7,17 @@ nav_order: 2
 
 # Cybersecurity HS
 
+- [Cybersecurity HS](#cybersecurity-hs)
+  - [Overview](#overview)
+  - [Rules](#rules)
+  - [How to Win](#how-to-win)
+    - [What are CTFs?](#what-are-ctfs)
+    - [Setting up a Cyber Lab](#setting-up-a-cyber-lab)
+    - [Learning](#learning)
+    - [Recommended Software](#recommended-software)
+  - [Additional Tips](#additional-tips)
+  - [Additional Resources](#additional-resources)
+
 ## Overview
 
 Teams compete in a 48 hour CTF challenge putting their cybersecurity skills to the test.
