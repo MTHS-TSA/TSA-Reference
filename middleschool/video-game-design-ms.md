@@ -101,14 +101,14 @@ Keep working on the game. Test it constantly not just for bugs but for how engag
 Highschool documentation is expected to be highly formal. However, at the middle school level, some judges may actually prefer more creative documentation such as inserting screenshots into the purpose and description or coloring the storyboard and formatting it like a comic strip. Ask around and if you can't decide, just play it safe and make the documentation formal. [Official TSA forms page here](https://tsaweb.org/competitions-programs/tsa/competition-forms).
 
 - Cover page
-  - You may use [this template](https://drive.google.com/file/d/1SQksqGW_w4zSzm8RpmT8PDkEtx5VkZ0V/view?usp=sharing) and replace with appropriate information or make your own
+  - You may use [this template]({{ "/assets/documents/cover-page-template.odt" | absolute_url }}) and replace with appropriate information or make your own
 - Copyright checklist [official template](https://tsaweb.org/docs/default-source/themes-and-problems-2018-2019/2021-2022/copyright-checklist.pdf?sfvrsn=ce8e2d97_2)
 - Storyboard
   - Pages as needed
   - [Unofficial template](http://srjcstaff.santarosa.edu/~kthornle/apgr66/storyboard.PDF) not created under this project
 - Purpose & description
   - Two pages
-  - [Template]({{ "/assets/extra-files/purpose-and-description.odt" | absolute_url }})
+  - [Template]({{ "/assets/documents/purpose-and-description.odt" | absolute_url }})
 - Plan of work log
   - Pages as needed
   - [Official template](https://tsaweb.org/docs/default-source/themes-and-problems-2018-2019/forms_updated-july2020/plan-of-work-log.pdf?sfvrsn=450b8505_2)
