@@ -59,7 +59,7 @@ Pages are categorized as the following:
 Every page must start with YAML information so the website adds it to the navigation.
 Here is an example:
 
-```none
+```
 ---
 layout: default
 title: Coding HS
@@ -71,7 +71,7 @@ Then add the title with and h1 header `#`.
 
 To add an auto-generating table of contents, use the code below:
 
-```none
+```
 ## Table of contents
 {: .no_toc .text-delta }
 
