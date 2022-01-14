@@ -57,15 +57,13 @@ Then add the title with and h1 header `#`.
 
 To add an auto-generating table of contents, use the code below:
 
-```html
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+```none
+## Table of Contents
+
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
-</details>
 ```
 
 Subsequent headers should use h2 `##` and children of those headers should use h3 `###` and so on.

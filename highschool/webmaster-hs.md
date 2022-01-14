@@ -8,7 +8,7 @@ parent: High School Competitions
 
 {: .no_toc }
 
-## Table of contents
+## Table of Contents
 
 {: .no_toc .text-delta }
 
