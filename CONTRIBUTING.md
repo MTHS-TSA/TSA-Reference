@@ -5,15 +5,15 @@ nav_order: 6
 ---
 
 # Contributing
-
 {: .no_toc }
 
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 ## Making Edits
 
@@ -30,7 +30,7 @@ Here are the steps to make an edit:
 5. Make any additional edits if requested by the reviewer
 6. All done
 
-This process is also described in a [Microsoft tutorial](https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/).
+The process is also described in this [Microsoft tutorial](https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/).
 
 ---
 
@@ -65,7 +65,6 @@ layout: default
 title: Coding HS
 parent: High School Competitions
 ---
-
 ```
 
 Then add the title with and h1 header `#`.
@@ -74,7 +73,6 @@ To add an auto-generating table of contents, use the code below:
 
 ```none
 ## Table of Contents
-
 {: .no_toc .text-delta }
 
 1. TOC

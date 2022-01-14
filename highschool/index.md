@@ -6,7 +6,6 @@ has_children: true
 ---
 
 # High School Competitions
-
 {: .no_toc }
 
 Information on each high school event.

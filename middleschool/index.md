@@ -6,7 +6,6 @@ has_children: true
 ---
 
 # Middle School Competitions
-
 {: .no_toc }
 
 Information on each middle school event.
