@@ -6,14 +6,14 @@ parent: Middle School Competitions
 
 # Coding MS
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+{: .no_toc }
+
+## Table of Contents
+
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
-</details>
 
 ## Overview
 

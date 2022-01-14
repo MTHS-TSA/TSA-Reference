@@ -1,28 +1,28 @@
 ---
 layout: default
-title: Filling out Documentation
+title: Filling out documentation
 parent: Guides
 ---
 
-# Filling out Documentation
+# Filling out documentation
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+{: .no_toc }
+
+## Table of Contents
+
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
-</details>
 
-## Making a portfolio
+## Making a Portfolio
 
 Many events will require you to submit a portfolio as a PDF. The documentation required in it can be found in the official TSA guides. On the official TSA website you can also find [official forms](https://tsaweb.org/competitions-programs/tsa/competition-forms) templates provided by TSA.
 To assemble your portfolio, you'll probably need some program to help. [Dochub](https://dochub.com/) is a free website you can use to create your documentation though there are many alternatives.
 
 ---
 
-## Cover page
+## Cover Page
 
 The cover page should have your ID or team ID, the date of the conference, the name of the event, and the name of the conference itself. It is also recommended you add the TSA logo to it. [Cover page template here](/assets/documents/cover-page-template.odt).
 
@@ -36,13 +36,13 @@ It is recommended that you do not backfill this. Do it before you actually start
 
 ---
 
-## Copyright checklist
+## Copyright Checklist
 
 The document is fairly self explanatory. Just fill out the form information and make sure you get your advisor to sign where needed. [Form here](https://tsaweb.org/docs/default-source/themes-and-problems-2018-2019/2021-2022/copyright-checklist.pdf).
 
 ---
 
-## Plan of work log
+## Plan of Work log
 
 The plan of work log is a record for all the work that you’ve done. This includes all planning and meeting time. Create a work log first - do not backfill as that could lead to inadequate documentation. Every time you have a meeting, sketch an idea, contribute code, or do any task for your project, put it in the work log.
 
