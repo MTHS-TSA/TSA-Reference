@@ -6,7 +6,7 @@ nav_order: 1
 
 # The Unofficial TSA Reference
 
-This website was created as a resource for new Technlogy Student Association (TSA) members to learn the basic skills needed to start competing.
+This website was created as a resource for new Technology Student Association (TSA) members to learn the basic skills needed to start competing.
 
 ## Contributing
 
