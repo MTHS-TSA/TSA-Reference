@@ -1,4 +1,19 @@
+---
+layout: default
+title: Contributing
+nav_order: 6
+---
+
 # Contributing
+
+{: .no_toc }
+
+## Table of Contents
+
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Making Edits
 
