@@ -106,8 +106,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ## Programming languages
 
-- What is a programming language
-- Identify the following languages and list common uses
+- What is a programming language?
+- Identify the following languages and list common uses:
   - Java
   - C
   - C#
