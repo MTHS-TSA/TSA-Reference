@@ -7,7 +7,7 @@ parent: High School Competitions
 # Cybersecurity HS
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -21,13 +21,13 @@ Teams compete in a 48 hour CTF challenge putting their cybersecurity skills to t
 
 ## Rules
 
-- Max team size of 6 but no minimum
-- CTF platform is open for 48 hours
-- Opposing teams may not collaborate or communicate during the competition
-- Teams may not communicate with people outside the competition for help
-- Searching on the world wide web for answers or more information during the competition is very much encouraged
-- Attacking the CTF hosting infrastructure is not allowed
-- You may not brute force flags
+- Max team size of 6 but no minimum.
+- CTF platform is open for 48 hours.
+- Opposing teams may not collaborate or communicate during the competition.
+- Teams may not communicate with people outside the competition for help.
+- Searching on the world wide web for answers or more information during the competition is very much encouraged.
+- Attacking the CTF hosting infrastructure is not allowed.
+- You may not brute force flags.
 
 ## Competing
 
@@ -37,7 +37,7 @@ CTF stands for capture the flag. However, instead of physical flags, competitors
 
 There are two main styles of CTF competition including: jeopardy and attack/defense. In attack/defense, teams defend their own servers while trying to attack the opposing teams' servers. In jeopardy style, there are categories like web, forensics, binary, etc. Under the categories are challenges. Each challenge will have a description of what you are trying to solve and possibly a link or file attached. The Technology Student Association hosts jeopardy-style CTFs.
 
-### Setting up a Cyber Lab
+### Setting up a cyber lab
 
 All you really need to do is install [VirtualBox](https://www.virtualbox.org/) and [create an Ubuntu virtual machine](https://brb.nci.nih.gov/seqtools/installUbuntu.html) - stop before going into the "More About VirtualBox" section, as you don't need to worry about it for now. Everything below in this section is just additional information on why you need to do this, and what other options you have.
 
@@ -73,48 +73,48 @@ Also try [picoCTF](https://www.picoctf.org/) which is an annual CTF competition 
 
 There are far more sources to check out in the [additional resources](#additional-resources) section.
 
-### Recommended Software
+### Recommended software
 
 Here are some useful programs and a website to get started.
 
-- [CyberChef](https://gchq.github.io/CyberChef/) - a website to quickly decode or decrypt strings, analyze files, and more. A fair amount of challenges in the TSA CTF can be solved in seconds with CyberChef mainly in the miscellaneous category.
-- [Wireshark](https://www.wireshark.org/) - a packet analysis program. A must have for network and forensics challenges where packet captures are provided.
-- [BurpSuite](https://portswigger.net/) - a proxy that allows you to intercept, view, and modify requests. Helpful for some web challenges.
-- [Ghidra](https://ghidra-sre.org/) - a disassembler useful for some reversing challenges.
+- [CyberChef](https://gchq.github.io/CyberChef/). A website to quickly decode or decrypt strings, analyze files, and more. A fair amount of challenges in the TSA CTF can be solved in seconds with CyberChef mainly in the miscellaneous category.
+- [Wireshark](https://www.wireshark.org/). A packet analysis program. A must have for network and forensics challenges where packet captures are provided.
+- [BurpSuite](https://portswigger.net/). A proxy that allows you to intercept, view, and modify requests. Helpful for some web challenges.
+- [Ghidra](https://ghidra-sre.org/). A disassembler useful for some reversing challenges.
 
 The list goes on far longer so here are some links to pages with more links to resources.
 
-- [MajorLeagueCyber Recommended Software](https://wiki.majorleaguecyber.org/topics/faq/tools/)
-- [Helpful steganography tools](https://0xrick.github.io/lists/stego/) - list compiled by 0xRick
+- [MajorLeagueCyber Recommended Software](https://wiki.majorleaguecyber.org/topics/faq/tools/).
+- [Helpful steganography tools](https://0xrick.github.io/lists/stego/). List compiled by 0xRick.
 
 Since at the very least you'll need to read and modify code, a text editor like [VS Code](https://code.visualstudio.com/), [Atom](https://atom.io/), or [Notepad++](https://notepad-plus-plus.org/) would be helpful. If you really want to get comfortable with using the Linux shell, Vim is an option but it's more for on-the-fly edits at least when compared to VS Code.
 
 Many competitors may also run [Python](https://www.python.org/) scripts to perform certain attacks which requires downloading the [Python interpreter](https://www.python.org/downloads/) to run the code. Although, Ubuntu should have Python already installed which you must run from the command line.
 
-## Additional Tips
+## Additional tips
 
 - CTF creators often put hints within the prompt. This can be anything from highlighting specific words that are also the name of a program which can be used to help, using French or German sounding titles to indicate the use of Vigenère encryption or text encrypted with Enigma, sneaking words into titles hinting what kind of attack you'll have to perform, etc. If anything sounds odd, Google it.
 - Use a program like [Discord](https://discord.com/) or [Slack](https://slack.com/) to communicate with your team.
 - Record notes on challenges. A shared [Google Drive](https://www.google.com/drive/) folder would work.
 - Some teams will have each team member dedicated to specific categories. For example, one person would be in charge of reversing challenges while another would do web. See what works for your team.
 
-## Additional Resources
+## Additional resources
 
-- [warmupCTF](https://warmup.ctfd.io/)
-- [picoCTF](https://picoctf.org/)
-- [CTFtime](https://ctftime.org/)
-- [Steganography tools list](https://0xrick.github.io/lists/stego/)
-- [LiveOverflow](https://liveoverflow.com/) - a Youtuber with good info on CTFs and cybersecurity
-- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) - another Youtube channel with good info on CTFs and cybersecurity
-- [MajorLeagueCyber Resource Library](https://wiki.majorleaguecyber.org/)
-- [CTF Field Guide](https://ctf101.org/)
-- [Roppers Academy](https://www.hoppersroppers.org/) - courses to learn cybersecurity structured in a clear pathway for beginners
-- [TryHackMe](https://tryhackme.com/) - a complete, interactive learning platform for cybersecurity
-- [OverTheWire](https://overthewire.org/wargames/) - wargames to learn cybersecurity. The bandit wargame in particular is a good intro to Linux
-- [CTFlearn](https://ctflearn.com/)
-- [CryptoHack](https://cryptohack.org/) - challenges to learn cryptography
-- [Reverse Engineering for Beginners](https://www.begin.re/)
-- [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html) - intro to binary exploitation and reverse engineering
-- [x86 Assembly Crash Course (video)](https://youtu.be/75gBFiFtAb8)
-- [crackmes.one](https://crackmes.one/) - practice reverse engineering doing crackme challenges
-- [SmashTheStack](http://smashthestack.org/wargames.html) - binary exploit war games
+- [WarmupCTF](https://warmup.ctfd.io/).
+- [PicoCTF](https://picoctf.org/).
+- [CTFtime](https://ctftime.org/).
+- [Steganography tools list](https://0xrick.github.io/lists/stego/).
+- [LiveOverflow](https://liveoverflow.com/). A Youtuber with good info on CTFs and cybersecurity.
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q). Another Youtube channel with good info on CTFs and cybersecurity.
+- [MajorLeagueCyber Resource Library](https://wiki.majorleaguecyber.org/).
+- [CTF Field Guide](https://ctf101.org/).
+- [Roppers Academy](https://www.hoppersroppers.org/). Courses to learn cybersecurity structured in a clear pathway for beginners.
+- [TryHackMe](https://tryhackme.com/). A complete, interactive learning platform for cybersecurity.
+- [OverTheWire](https://overthewire.org/wargames/). Wargames to learn cybersecurity. The bandit wargame in particular is a good intro to Linux.
+- [CTFlearn](https://ctflearn.com/).
+- [CryptoHack](https://cryptohack.org/). Challenges to learn cryptography.
+- [Reverse Engineering for Beginners](https://www.begin.re/).
+- [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html). Intro to binary exploitation and reverse engineering.
+- [x86 Assembly Crash Course (video)](https://youtu.be/75gBFiFtAb8).
+- [crackmes.one](https://crackmes.one/). Practice reverse engineering doing crackme challenges.
+- [SmashTheStack](http://smashthestack.org/wargames.html). Binary exploit war games.

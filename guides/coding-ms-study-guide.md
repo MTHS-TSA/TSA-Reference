@@ -7,7 +7,7 @@ parent: Guides
 # Coding MS Study Guide
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -23,7 +23,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Computer Hardware
+## Computer hardware
 
 - What is hardware?
 - What is a motherboard?
@@ -65,7 +65,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Units of Measure
+## Units of measure
 
 - What is a bit?
 - What is a byte?
@@ -106,8 +106,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ## Programming languages
 
-- What is a programming language
-- Identify the following languages and list common uses
+- What is a programming language?
+- Identify the following languages and list common uses:
   - Java
   - C
   - C#

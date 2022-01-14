@@ -7,7 +7,7 @@ parent: High School Competitions
 # Webmaster HS
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -23,15 +23,15 @@ Competitors make a website following the given annual theme.
 
 ## Rules
 
-- Teams of up to 6 participants create a website
-- One team per chapter may compete at nationals
-- The top 12 teams get into the semifinals where up to 5 team members must be interviewed
-- The website is based on a theme assigned each year found in the [themes and problems](https://tsaweb.org/competitions-programs/tsa/themes-problems)
-- The website is judged on appearance, content, and function
-- There must be an about page on the website where all the documentation goes
-- The website, in addition to basic HTML, may use other technologies like Java applets and HTML5
-- Frameworks like Wordpress and Bootstrap are allowed but prebuilt templates and themes are banned
-- Template engine websites like Wix and Weebly are banned
+- Teams of up to 6 participants create a website.
+- One team per chapter may compete at nationals.
+- The top 12 teams get into the semifinals where up to 5 team members must be interviewed.
+- The website is based on a theme assigned each year found in the [themes and problems](https://tsaweb.org/competitions-programs/tsa/themes-problems).
+- The website is judged on appearance, content, and function.
+- There must be an about page on the website where all the documentation goes.
+- The website, in addition to basic HTML, may use other technologies like Java applets and HTML5.
+- Frameworks like Wordpress and Bootstrap are allowed but prebuilt templates and themes are banned.
+- Template engine websites like Wix and Weebly are banned.
 
 ---
 
@@ -43,16 +43,16 @@ As with most large projects, it's best to have a system to keep everything organ
 
 Google Drive is a good way to keep all documentation, brainstorming ideas, and meeting notes together. Make one shared folder for the team then add the following subfolders for organization:
 
-- Meetings - Meeting agendas and notes
-- Documentation - Store all the documentation
-- Brainstorming - All your ideas for the website compiled into one
-- Assets - Store things like photos as a backup
+- Meetings. Meeting agendas and notes.
+- Documentation. Store all the documentation.
+- Brainstorming. All your ideas for the website compiled into one.
+- Assets. Store things like photos as a backup.
 
 You will also need a way to contact the people in your team efficiently. Texting, [Discord](https://discord.com/), or [Slack](https://slack.com/) all work. You may also want to do online meetings every couple weeks to check in on Discord or [Zoom](https://zoom.us/).
 
 [Github](https://github.com/) is easily the best option for collaborating on the code for 70% of projects. [Repl.it](https://replit.com) is another option which allows you to collaborate live and it can host static websites, Flask, and Node.js.
 
-### Selecting a Stack & Frameworks
+### Selecting a stack & frameworks
 
 One of the easiest ways to create your website is to simply make a static site with HTML, CSS, and Javascript. You can create a repository on [Github](https://github.com/) for it and then host it by enabling Github pages in the settings.
 
@@ -66,16 +66,16 @@ Frameworks and libraries for CSS and Javascript will help save time and headache
 
 Common CSS frameworks:
 
-- [Bootstrap](https://getbootstrap.com/) - Most common
-- [Bulma](https://bulma.io/) - Another good option
-- [Tailwindcss](https://tailwindcss.com/) - Growing in popularity but uses unorthodox approach
+- [Bootstrap](https://getbootstrap.com/). Most common.
+- [Bulma](https://bulma.io/). Another good option.
+- [Tailwindcss](https://tailwindcss.com/). Growing in popularity but uses unorthodox approach.
 
 Common Javascript libraries:
 
-- [jQuery](https://jquery.com/) - Makes DOM traversal and manipulation less of a pain
-- [animae.js](https://animejs.com/) - Animate stuff
+- [jQuery](https://jquery.com/). Makes DOM of a pain.
+- [animae.js](https://animejs.com/). Animate stuff.
 
-### Designing the Website
+### Designing the website
 
 Record your ideas an text on a Google document in the shared folder mentioned before. You can create a rough outline of the website on paper to share. [Canva](https://www.canva.com/) is a tool you can you to make rough designs as well.
 
@@ -89,10 +89,10 @@ In the about page you must put all the documentation for your website. It must i
 
 ## Examples
 
-- [Med-Dia by Linishere](https://linishere.github.io/T-2006-1/html/home.html) - 3rd place Washington State 2020-2021
+- [Med-Dia by Linishere](https://linishere.github.io/T-2006-1/html/home.html). 3rd place Washington State 2020-2021.
 
 ---
 
-## Additional Resources
+## Additional resources
 
-- [W3 Schools](https://www.w3schools.com/) - Tutorials for coding
+- [W3 Schools](https://www.w3schools.com/). Tutorials for coding.
