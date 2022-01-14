@@ -18,7 +18,7 @@ This project is not endorsed the Technology Student Association. We need volunte
 - Adding images
 - Adding cool ideas
 
-To get started, visit the [Github repository](https://github.com/j-nac/TSA-Reference) where you can add issues, fix issues, and join the discussion. The [Contributing page](https://j-nac.github.io//TSA-Reference/CONTRIBUTING.html) contains instructions for contributing. You may also [contact the maintainer](mailto:jnac8080@gmail.com) of this repository.
+To get started, visit the [Github repository](https://github.com/j-nac/TSA-Reference) where you can add issues, fix issues, and join the discussion. The [contributing page](https://j-nac.github.io//TSA-Reference/CONTRIBUTING.html) contains instructions for contributing. You may also [contact the maintainer](mailto:jnac8080@gmail.com) of this repository.
 
 ## Mission
 

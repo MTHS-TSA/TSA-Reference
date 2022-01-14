@@ -7,7 +7,7 @@ parent: Middle School Competitions
 # Coding MS
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -38,7 +38,7 @@ Participants take an hour-long written test to demonstrate programming knowledge
 - Participants must bring two #2 pencils (one per person) to the test site
 - The test score will factor into overall score
 
-### On-site Challenge
+### On-site challenge
 
 - Participants report to the time and place to do the on-site challenge
 - Participants will be given a prompt (usually some kind of game) accompanied by details and additional features to then create in Scratch
@@ -72,7 +72,7 @@ Here are some resources for coding practice:
 - [Hackerrank](https://www.hackerrank.com/) for coding practice
 - [Project Euler](https://projecteuler.net/) for coding practice
 
-### On-site Challenge
+### On-site challenge
 
 For the on-site challenge, you will be directed to make a specific game using Scratch. To prepare, practice making basic games in Scratch with your partner.
 
@@ -91,7 +91,7 @@ Make sure to try each of these under the normal event rules (two hours, no inter
 
 ---
 
-## Additional Tips
+## Additional tips
 
 - There is a high chance that the program you must make will involve clones, so make sure to practice making a clone system
 

@@ -7,7 +7,7 @@ nav_order: 6
 # Contributing
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -15,7 +15,7 @@ nav_order: 6
 
 ---
 
-## Making Edits
+## Making edits
 
 This website is powered by Jekyll using the [Just the Docs theme](https://github.com/pmarsceill/just-the-docs). Check out [their website](https://pmarsceill.github.io/just-the-docs/) for formatting information.
 
@@ -34,7 +34,7 @@ The process is also described in this [Microsoft tutorial](https://docs.microsof
 
 ---
 
-## Style Guidelines
+## Style guidelines
 
 Use the AP style when possible unless stated otherwise below:
 
@@ -47,7 +47,7 @@ Additionally:
 
 ---
 
-## Adding new Pages
+## Adding new pages
 
 Pages are categorized as the following:
 
@@ -72,7 +72,7 @@ Then add the title with and h1 header `#`.
 To add an auto-generating table of contents, use the code below:
 
 ```none
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -88,6 +88,6 @@ Most competition guides will have the following sections though they are removed
 1. Overview
 2. Rules
 3. Competing
-4. Additional Tips
+4. Additional tips
 5. Examples
-6. Additional Resources
+6. Additional resources

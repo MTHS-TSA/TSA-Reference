@@ -7,7 +7,7 @@ parent: Middle School Competitions
 # Video Game Design MS
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -28,7 +28,7 @@ Teams compete in creating a video game. Judges will grade the game based on a va
 - Team size must be 2-6
 - One team per chapter participates nationally
 
-### Submission & Interview
+### Submission & interview
 
 - Teams submit a pdf with documentation and a link to the game
 - The pdf with the game documentation contains the following [documents](#documentation) in order:
@@ -135,7 +135,7 @@ Highschool documentation is expected to be highly formal. However, at the middle
 
 ---
 
-## Additional Tips
+## Additional tips
 
 - Make sure you're formally dressed for video game design interviews
 - If you can't decide what language or game engine you want to use, just pick Scratch. It's beginner friendly getting you up and running in a shorter amount of time
@@ -154,7 +154,7 @@ Highschool documentation is expected to be highly formal. However, at the middle
 
 ---
 
-## Additional Resources
+## Additional resources
 
 - [Scratch Wiki](https://en.scratch-wiki.info/wiki/Scratch_Wiki_Home) - learn how to use Scratch
 - [No Starch Press](https://nostarch.com/catalog/scratch) - a publishing company that makes good books on coding with Scratch. Borrow one from your local library

@@ -7,7 +7,7 @@ parent: High School Competitions
 # Webmaster HS
 {: .no_toc }
 
-## Table of Contents
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -52,7 +52,7 @@ You will also need a way to contact the people in your team efficiently. Texting
 
 [Github](https://github.com/) is easily the best option for collaborating on the code for 70% of projects. [Repl.it](https://replit.com) is another option which allows you to collaborate live and it can host static websites, Flask, and Node.js.
 
-### Selecting a Stack & Frameworks
+### Selecting a stack & frameworks
 
 One of the easiest ways to create your website is to simply make a static site with HTML, CSS, and Javascript. You can create a repository on [Github](https://github.com/) for it and then host it by enabling Github pages in the settings.
 
@@ -75,7 +75,7 @@ Common Javascript libraries:
 - [jQuery](https://jquery.com/) - Makes DOM traversal and manipulation less of a pain
 - [animae.js](https://animejs.com/) - Animate stuff
 
-### Designing the Website
+### Designing the website
 
 Record your ideas an text on a Google document in the shared folder mentioned before. You can create a rough outline of the website on paper to share. [Canva](https://www.canva.com/) is a tool you can you to make rough designs as well.
 
@@ -93,6 +93,6 @@ In the about page you must put all the documentation for your website. It must i
 
 ---
 
-## Additional Resources
+## Additional resources
 
 - [W3 Schools](https://www.w3schools.com/) - Tutorials for coding
