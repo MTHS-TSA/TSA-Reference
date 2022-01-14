@@ -2,7 +2,6 @@
 layout: default
 title: Video Game Design MS
 parent: Middle School Competitions
-nav_order: 2
 ---
 
 # Video Game Design MS
@@ -147,7 +146,7 @@ Highschool documentation is expected to be highly formal. However, at the middle
 ## Examples
 
 - [Cosmo Cat](https://scratch.mit.edu/projects/357094073/) by JGJ-inc - Edmonds-Shoreline District Regionals 2019-2020 1st place
-- [Cosmo Cat Documentation]({{ "/assets/extra-files/cosmo-cat-documentation.pdf" | absolute_url }})
+- [Cosmo Cat Documentation]({{ "/assets/examples/cosmo-cat-documentation.pdf" | absolute_url }})
 - [Knight's Ambition](https://scratch.mit.edu/projects/285518200/) by furiousalightnin - Washington State 2018-2019 3rd place
 - [Hoodieboy and the Tower of Puzzles](https://scratch.mit.edu/projects/285518016/) by JGJ-inc - Washington State 2018-2019 2nd place
 

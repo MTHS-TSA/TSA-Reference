@@ -2,7 +2,6 @@
 layout: default
 title: Interviewing 101
 parent: Guides
-nav_order: 2
 ---
 
 # Interviewing 101

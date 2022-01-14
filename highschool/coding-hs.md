@@ -2,7 +2,6 @@
 layout: default
 title: Coding HS
 parent: High School Competitions
-nav_order: 1
 ---
 
 # Coding HS
@@ -52,7 +51,7 @@ Most importantly, practice as much as you can with websites like [LeetCode](http
 
 ## Examples
 
-- [Coding examples]({{ "/assets/extra-files/Coding%20Examples%20Andy.zip" | absolute_url }}) Washington state from Andy
+- [Coding examples]({{ "/assets/examples/Coding%20Examples%20Andy.zip" | absolute_url }}) Washington state from Andy
 
 ## Additional Resources
 
