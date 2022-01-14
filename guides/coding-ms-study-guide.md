@@ -6,25 +6,22 @@ parent: Guides
 
 # Coding MS Study Guide
 
-- [Coding MS Study Guide](#coding-ms-study-guide)
-  - [Overview](#overview)
-  - [Computer Hardware](#computer-hardware)
-  - [Encodings](#encodings)
-  - [Units of Measure](#units-of-measure)
-  - [Firmware](#firmware)
-  - [How programming languages work](#how-programming-languages-work)
-  - [Programming languages](#programming-languages)
-  - [Variable types](#variable-types)
-  - [Specific coding terms](#specific-coding-terms)
-  - [General coding terms](#general-coding-terms)
-  - [Internet](#internet)
-  - [Operating systems](#operating-systems)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Overview
 
 This guide was created for the [Coding MS challenge](https://j-nac.github.io/TSA-Reference/middleschool/coding-ms.html).
 Answer the questions for practice.
 Don’t worry too much about this. You just need a general idea of all these things. Around 70% knowledge and you should pass easily.
+
+---
 
 ## Computer Hardware
 
@@ -52,6 +49,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - What are routers?
 - What are modems?
 
+---
+
 ## Encodings
 
 - What is an encoding?
@@ -64,6 +63,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - What is Unicode Transformation Format 8 (UTF-8)?
 - What is the difference between encodings and encryption?
 
+---
+
 ## Units of Measure
 
 - What is a bit?
@@ -75,11 +76,15 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - Why don’t we really use binary prefixes?
 - You buy a thumb drive with 64 gigabytes. However, when you check the properties, the numbers are off. Why is this?
 
+---
+
 ## Firmware
 
 - What is firmware?
 - What is system setup?
 - What is BIOS/UEFI?
+
+---
 
 ## How programming languages work
 
@@ -97,6 +102,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - How are high-level and low-level programming languages different?
 - What does it mean for a programming language to be object-oriented? Examples?
 
+---
+
 ## Programming languages
 
 - What is a programming language
@@ -107,6 +114,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
   - C++
   - Python
   - JavaScript
+
+---
 
 ## Variable types
 
@@ -121,6 +130,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - What is an array?
 - What is a set?
 - What is a dictionary (map)?
+
+---
 
 ## Specific coding terms
 
@@ -139,6 +150,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - What is a method?
 - What is a class?
 
+---
+
 ## General coding terms
 
 - What is a bug?
@@ -148,6 +161,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - What is a program?
 - What is data?
 - What is input and output?
+
+---
 
 ## Internet
 
@@ -170,6 +185,8 @@ Don’t worry too much about this. You just need a general idea of all these thi
 - What is a server?
 - What is a client?
 - What is Ethernet?
+
+---
 
 ## Operating systems
 

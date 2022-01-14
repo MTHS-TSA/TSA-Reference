@@ -6,21 +6,20 @@ parent: Middle School Competitions
 
 # Coding MS
 
-- [Coding MS](#coding-ms)
-  - [Overview](#overview)
-  - [Rules](#rules)
-    - [General](#general)
-    - [Test](#test)
-    - [On-site Challenge](#on-site-challenge)
-  - [How to Win](#how-to-win)
-    - [Test](#test-1)
-    - [On-site Challenge](#on-site-challenge-1)
-  - [Additional Tips](#additional-tips)
-  - [Examples](#examples)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Overview
 
 Participants take an hour-long written test to demonstrate programming knowledge. The top 12, in a 2-hour on-site challenge, create a game in Scratch given a prompt constraints.
+
+---
 
 ## Rules
 
@@ -50,7 +49,9 @@ Participants take an hour-long written test to demonstrate programming knowledge
 - There will be no internet or power access during the challenge
 - All code must be written during the competition
 
-## How to Win
+---
+
+## Competing
 
 ### Test
 
@@ -88,9 +89,13 @@ Here are some project ideas to work on for practice.
 
 Make sure to try each of these under the normal event rules (two hours, no internet access, etc). If you don't know how to code in Scratch, here's a guide.
 
+---
+
 ## Additional Tips
 
 - There is a high chance that the program you must make will involve clones, so make sure to practice making a clone system
+
+---
 
 ## Examples
 

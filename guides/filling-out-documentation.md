@@ -6,22 +6,27 @@ parent: Guides
 
 # Filling out Documentation
 
-- [Filling out Documentation](#filling-out-documentation)
-  - [Making a portfolio](#making-a-portfolio)
-  - [Cover page](#cover-page)
-  - [Storyboards](#storyboards)
-  - [Copyright checklist](#copyright-checklist)
-  - [Plan of work log](#plan-of-work-log)
-  - [Additional Notes](#additional-notes)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Making a portfolio
 
 Many events will require you to submit a portfolio as a PDF. The documentation required in it can be found in the official TSA guides. On the official TSA website you can also find [official forms](https://tsaweb.org/competitions-programs/tsa/competition-forms) templates provided by TSA.
 To assemble your portfolio, you'll probably need some program to help. [Dochub](https://dochub.com/) is a free website you can use to create your documentation though there are many alternatives.
 
+---
+
 ## Cover page
 
 The cover page should have your ID or team ID, the date of the conference, the name of the event, and the name of the conference itself. It is also recommended you add the TSA logo to it. [Cover page template here](/assets/documents/cover-page-template.odt).
+
+---
 
 ## Storyboards
 
@@ -29,9 +34,13 @@ Storyboards are basically a rough plan before you execute your project. To make 
 
 It is recommended that you do not backfill this. Do it before you actually start creating your project. Use as many as you need; some teams may even have dozens of pages.
 
+---
+
 ## Copyright checklist
 
 The document is fairly self explanatory. Just fill out the form information and make sure you get your advisor to sign where needed. [Form here](https://tsaweb.org/docs/default-source/themes-and-problems-2018-2019/2021-2022/copyright-checklist.pdf).
+
+---
 
 ## Plan of work log
 
@@ -40,6 +49,8 @@ The plan of work log is a record for all the work that you’ve done. This inclu
 You may use the [template provided by TSA](https://tsaweb.org/docs/default-source/themes-and-problems-2018-2019/2021-2022/plan-of-work-log.pdf?sfvrsn=d6023020_2) or use your own as long as all information fields are there. Make sure to use initials; this is supposedly to avoid judge bias.
 
 Use as many as you need.
+
+---
 
 ## Additional Notes
 

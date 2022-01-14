@@ -6,16 +6,14 @@ parent: High School Competitions
 
 # Cybersecurity HS
 
-- [Cybersecurity HS](#cybersecurity-hs)
-  - [Overview](#overview)
-  - [Rules](#rules)
-  - [How to Win](#how-to-win)
-    - [What are CTFs?](#what-are-ctfs)
-    - [Setting up a Cyber Lab](#setting-up-a-cyber-lab)
-    - [Learning](#learning)
-    - [Recommended Software](#recommended-software)
-  - [Additional Tips](#additional-tips)
-  - [Additional Resources](#additional-resources)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Overview
 
@@ -31,7 +29,7 @@ Teams compete in a 48 hour CTF challenge putting their cybersecurity skills to t
 - Attacking the CTF hosting infrastructure is not allowed
 - You may not brute force flags
 
-## How to Win
+## Competing
 
 ### What are CTFs?
 

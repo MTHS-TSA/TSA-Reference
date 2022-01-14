@@ -6,13 +6,14 @@ parent: High School Competitions
 
 # Coding HS
 
-- [Coding HS](#coding-hs)
-  - [Overview](#overview)
-  - [Rules](#rules)
-  - [How to Win](#how-to-win)
-  - [Additional Tips](#additional-tips)
-  - [Examples](#examples)
-  - [Additional Resources](#additional-resources)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Overview
 
@@ -28,7 +29,7 @@ The TSA Coding event is an on-site event where teams of 1-2 people compete again
 - You cannot prepare code before the competition - all code must be written during the competition
 - The time at which you submit shouldn’t matter
 
-## How to Win
+## Competing
 
 A good submission has the following qualities:
 

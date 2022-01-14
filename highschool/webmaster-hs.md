@@ -6,18 +6,20 @@ parent: High School Competitions
 
 # Webmaster HS
 
-- [Webmaster HS](#webmaster-hs)
-  - [Overview](#overview)
-  - [Rules](#rules)
-  - [How to Win](#how-to-win)
-    - [Organization](#organization)
-    - [Selecting a Stack & Frameworks](#selecting-a-stack--frameworks)
-    - [Designing the Website](#designing-the-website)
-    - [Documentation](#documentation)
-  - [Examples](#examples)
-  - [Additional Resources](#additional-resources)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Overview
+
+Competitors make a website following the given annual theme.
+
+---
 
 ## Rules
 
@@ -31,7 +33,9 @@ parent: High School Competitions
 - Frameworks like Wordpress and Bootstrap are allowed but prebuilt templates and themes are banned
 - Template engine websites like Wix and Weebly are banned
 
-## How to Win
+---
+
+## Competing
 
 ### Organization
 
@@ -81,9 +85,13 @@ Creating the website will require careful thought in the UI, color scheme, and t
 
 In the about page you must put all the documentation for your website. It must include a list of the sources of information you used, documentation for all copyrighted material, the Student Copyright Checklist as a PDF, and the Plan of Work log as a PDF.
 
+---
+
 ## Examples
 
 - [Med-Dia by Linishere](https://linishere.github.io/T-2006-1/html/home.html) - 3rd place Washington State 2020-2021
+
+---
 
 ## Additional Resources
 

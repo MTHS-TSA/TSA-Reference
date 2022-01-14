@@ -6,24 +6,20 @@ parent: Middle School Competitions
 
 # Video Game Design MS
 
-- [Video Game Design MS](#video-game-design-ms)
-  - [Overview](#overview)
-  - [Rules](#rules)
-    - [General](#general)
-    - [Submission & Interview](#submission--interview)
-    - [Grading](#grading)
-  - [How to Win](#how-to-win)
-    - [Process](#process)
-    - [Tools](#tools)
-    - [Documentation](#documentation)
-    - [Interviews](#interviews)
-  - [Additional Tips](#additional-tips)
-  - [Examples](#examples)
-  - [Additional Resources](#additional-resources)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Overview
 
 Teams compete in creating a video game. Judges will grade the game based on a variety of factors such as overall appeal, creativity, and technical difficulty. Semi-finalists will then be interviewed by judges. The team with the most points wins.
+
+---
 
 ## Rules
 
@@ -71,7 +67,9 @@ Teams compete in creating a video game. Judges will grade the game based on a va
   - Team participation (10 points) - how evenly people in the team contribute to the interview
   - Delivery (10 points) - speaking skills, posture, eye contact, and many other norms that impact professionalism and clarity
 
-## How to Win
+---
+
+## Competing
 
 ### Process
 
@@ -135,6 +133,8 @@ Highschool documentation is expected to be highly formal. However, at the middle
   - What issues did you facing making your game?
   - What would you change for next time / how would you improve your game?
 
+---
+
 ## Additional Tips
 
 - Make sure you're formally dressed for video game design interviews
@@ -143,12 +143,16 @@ Highschool documentation is expected to be highly formal. However, at the middle
 - It is better to have more artists than coders because art typically takes longer. Having many coders can be difficult to manage especially with Scratch which isn't built for collaboration
 - To organize files in Google Drive, make one folder shared with everyone in the team. Within the shared folder make a documentation, project files, and backup folder
 
+---
+
 ## Examples
 
 - [Cosmo Cat](https://scratch.mit.edu/projects/357094073/) by JGJ-inc - Edmonds-Shoreline District Regionals 2019-2020 1st place
 - [Cosmo Cat Documentation]({{ "/assets/examples/cosmo-cat-documentation.pdf" | absolute_url }})
 - [Knight's Ambition](https://scratch.mit.edu/projects/285518200/) by furiousalightnin - Washington State 2018-2019 3rd place
 - [Hoodieboy and the Tower of Puzzles](https://scratch.mit.edu/projects/285518016/) by JGJ-inc - Washington State 2018-2019 2nd place
+
+---
 
 ## Additional Resources
 

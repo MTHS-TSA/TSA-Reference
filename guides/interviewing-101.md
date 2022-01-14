@@ -6,19 +6,26 @@ parent: Guides
 
 # Interviewing 101
 
-- [Interviewing 101](#interviewing-101)
-  - [Overview](#overview)
-  - [How to Get Good at Being Interviewed](#how-to-get-good-at-being-interviewed)
-  - [Basic Questions](#basic-questions)
-  - [Additional Tips](#additional-tips)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Overview
 
 Almost every competitor in TSA will eventually have to prepare for and learn to be interviewed. Having a good interview is all about (1) showing the judges you know what you're talking about and (2) you have a vision for your project.
 
+---
+
 ## How to Get Good at Being Interviewed
 
 Getting good at interviews requires practice. Get someone like an advisor or mentor to ask questions to prepare. Make sure each person in the interview has a role for what they'll discuss; this helps avoid having people speak over each other.
+
+---
 
 ## Basic Questions
 
@@ -33,6 +40,8 @@ Getting good at interviews requires practice. Get someone like an advisor or men
 - What would you improve for next time?
 - What are the next steps in your project?
 - What were some obstacles in getting your project done?
+
+---
 
 ## Additional Tips
 
