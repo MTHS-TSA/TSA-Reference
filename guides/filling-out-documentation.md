@@ -2,7 +2,6 @@
 layout: default
 title: Filling out Documentation
 parent: Guides
-nav_order: 3
 ---
 
 # Filling out Documentation

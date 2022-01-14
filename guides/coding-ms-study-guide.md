@@ -2,7 +2,6 @@
 layout: default
 title: Coding MS Study Guide
 parent: Guides
-nav_order: 1
 ---
 
 # Coding MS Study Guide
