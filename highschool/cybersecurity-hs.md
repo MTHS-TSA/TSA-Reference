@@ -7,7 +7,7 @@ parent: High School Competitions
 # Cybersecurity HS
 {: .no_toc }
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -37,7 +37,7 @@ CTF stands for capture the flag. However, instead of physical flags, competitors
 
 There are two main styles of CTF competition including: jeopardy and attack/defense. In attack/defense, teams defend their own servers while trying to attack the opposing teams' servers. In jeopardy style, there are categories like web, forensics, binary, etc. Under the categories are challenges. Each challenge will have a description of what you are trying to solve and possibly a link or file attached. The Technology Student Association hosts jeopardy-style CTFs.
 
-### Setting up a cyber lab
+### Setting up a Cyber lab
 
 All you really need to do is install [VirtualBox](https://www.virtualbox.org/) and [create an Ubuntu virtual machine](https://brb.nci.nih.gov/seqtools/installUbuntu.html) - stop before going into the "More About VirtualBox" section, as you don't need to worry about it for now. Everything below in this section is just additional information on why you need to do this, and what other options you have.
 
@@ -73,7 +73,7 @@ Also try [picoCTF](https://www.picoctf.org/) which is an annual CTF competition 
 
 There are far more sources to check out in the [additional resources](#additional-resources) section.
 
-### Recommended software
+### Recommended Software
 
 Here are some useful programs and a website to get started.
 
@@ -91,14 +91,14 @@ Since at the very least you'll need to read and modify code, a text editor like 
 
 Many competitors may also run [Python](https://www.python.org/) scripts to perform certain attacks which requires downloading the [Python interpreter](https://www.python.org/downloads/) to run the code. Although, Ubuntu should have Python already installed which you must run from the command line.
 
-## Additional tips
+## Additional Tips
 
 - CTF creators often put hints within the prompt. This can be anything from highlighting specific words that are also the name of a program which can be used to help, using French or German sounding titles to indicate the use of Vigenère encryption or text encrypted with Enigma, sneaking words into titles hinting what kind of attack you'll have to perform, etc. If anything sounds odd, Google it.
 - Use a program like [Discord](https://discord.com/) or [Slack](https://slack.com/) to communicate with your team.
 - Record notes on challenges. A shared [Google Drive](https://www.google.com/drive/) folder would work.
 - Some teams will have each team member dedicated to specific categories. For example, one person would be in charge of reversing challenges while another would do web. See what works for your team.
 
-## Additional resources
+## Additional Resources
 
 - [WarmupCTF](https://warmup.ctfd.io/).
 - [PicoCTF](https://picoctf.org/).
