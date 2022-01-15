@@ -1,7 +1,7 @@
 ---
 layout: default
-title: National Conference
+title: State Conference
 parent: General Information
 ---
 
-# National Conference
+# State Conference

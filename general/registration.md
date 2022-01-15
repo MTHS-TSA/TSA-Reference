@@ -1,7 +1,7 @@
 ---
 layout: default
-title: National Conference
+title: Registration
 parent: General Information
 ---
 
-# National Conference
+# Registration
