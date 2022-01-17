@@ -5,10 +5,21 @@ parent: Guides
 ---
 
 # Organization
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Overview
 
 Organization is critical in ensuring all work gets completed. This guide is for getting organized for your event. This is not intended however for formal chapter leadership though there may be parts that are helpful anyways. This is just a starting point; you should adjust to what works best.
+
+---
 
 ## Organizing Files
 
@@ -48,6 +59,8 @@ Notes:
 - Another one
 ```
 
+---
+
 ## Communication
 
 Chatting:
@@ -67,6 +80,8 @@ Meetings:
 - [Zoom](https://zoom.us/)
 - Microsoft Teams (voice call)
 
+---
+
 ## Management
 
 The easiest solution is simply making a document to record upcoming tasks, who is assigned to the task, and the deadline.
@@ -74,6 +89,8 @@ The easiest solution is simply making a document to record upcoming tasks, who i
 The next level up is a [kanban board](https://en.wikipedia.org/wiki/Kanban_board). A kanban board uses a sticky note for each task which is placed in a column based on the progress. [Trello](https://trello.com/) is a commonly used digital kanban board solution.
 
 A [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is another way to track progress by using bars for each item along a timeline.
+
+---
 
 ## Code Collaboration
 

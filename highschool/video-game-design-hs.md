@@ -13,8 +13,12 @@ parent: High School Competitions
 1. TOC
 {:toc}
 
+---
+
 ## Overview
 Competitors create a game following the annual theme. The top 12 semi-finalists are interviewed.
+
+---
 
 ## Rules
 
@@ -36,6 +40,8 @@ Competitors create a game following the annual theme. The top 12 semi-finalists 
   - Storyboards
   - Plan of work log
 
+---
+
 ## Competing
 
 1. Form a team.
@@ -47,8 +53,14 @@ Competitors create a game following the annual theme. The top 12 semi-finalists 
 7. Playtest.
 8. 
 
+---
+
 ## Additional Tips
 
+---
+
 ## Examples
+
+---
 
 ## Additional Resources
