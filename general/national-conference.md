@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [U] National Conference
+title: \[U] National Conference
 parent: General Information
 ---
 

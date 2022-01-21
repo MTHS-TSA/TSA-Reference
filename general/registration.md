@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [U] Registration
+title: \[U] Registration
 parent: General Information
 ---
 

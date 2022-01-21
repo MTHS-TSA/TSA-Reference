@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [U] What is TSA?
+title: \[U] What is TSA?
 parent: General Information
 ---
 
