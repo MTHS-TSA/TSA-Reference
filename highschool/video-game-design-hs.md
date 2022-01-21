@@ -7,6 +7,8 @@ parent: High School Competitions
 # Video Game Design HS
 {: .no_toc }
 
+*Currently under construction*
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -51,7 +53,6 @@ Competitors create a game following the annual theme. The top 12 semi-finalists 
 5. Draft storyboards.
 6. Create the game.
 7. Playtest.
-8. 
 
 ---
 

@@ -7,6 +7,8 @@ parent: General Information
 # Registration
 {: .no_toc }
 
+*Currently under construction*
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
