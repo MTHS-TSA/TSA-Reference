@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Registration
+title: \[U] Registration
 parent: General Information
 ---
 
-# Registration
+# [U] Registration
 {: .no_toc }
 
 *Currently under construction*

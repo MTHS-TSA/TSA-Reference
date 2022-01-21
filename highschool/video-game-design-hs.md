@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Video Game Design HS
+title: \[U] Video Game Design HS
 parent: High School Competitions
 ---
 
-# Video Game Design HS
+# [U] Video Game Design HS
 {: .no_toc }
 
 *Currently under construction*

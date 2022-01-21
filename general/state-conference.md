@@ -1,10 +1,10 @@
 ---
 layout: default
-title: State Conference
+title: \[U] State Conference
 parent: General Information
 ---
 
-# State Conference
+# [U] State Conference
 {: .no_toc }
 
 *Currently under construction*

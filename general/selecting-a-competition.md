@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Selecting a Competition
+title: \[U] Selecting a Competition
 parent: General Information
 ---
 
-# Selecting a Competition
+# [U] Selecting a Competition
 {: .no_toc }
 
 *Currently under construction*
