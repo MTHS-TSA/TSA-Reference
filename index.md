@@ -8,6 +8,8 @@ nav_order: 1
 
 This website was created as a resource for new Technology Student Association (TSA) members to learn the basic skills needed to start competing.
 
+---
+
 ## Contributing
 
 This project is not endorsed the Technology Student Association. We need volunteers to keep it running. There are many ways you can contribute including:
@@ -19,6 +21,10 @@ This project is not endorsed the Technology Student Association. We need volunte
 - Adding cool ideas.
 
 To get started, visit the [Github repository](https://github.com/j-nac/TSA-Reference) where you can add issues, fix issues, and join the discussion. The [contributing page](https://j-nac.github.io//TSA-Reference/CONTRIBUTING.html) contains instructions for contributing. You may also [contact the maintainer](mailto:jnac8080@gmail.com) of this repository.
+
+All pages with [U] are unfinished.
+
+---
 
 ## Mission
 

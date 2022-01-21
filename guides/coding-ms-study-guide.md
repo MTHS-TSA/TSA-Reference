@@ -7,7 +7,7 @@ parent: Guides
 # Coding MS Study Guide
 {: .no_toc }
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -23,7 +23,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Computer hardware
+## Computer Hardware
 
 - What is hardware?
 - What is a motherboard?
@@ -65,7 +65,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Units of measure
+## Units of Measure
 
 - What is a bit?
 - What is a byte?
@@ -86,7 +86,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## How programming languages work
+## How Programming Languages work
 
 - What is a compiler?
 - What is an assembler?
@@ -104,7 +104,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Programming languages
+## Programming Languages
 
 - What is a programming language?
 - Identify the following languages and list common uses:
@@ -117,7 +117,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Variable types
+## Variable Types
 
 - What is an integer (int)?
 - What is a string (str)?
@@ -133,7 +133,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Specific coding terms
+## Specific Coding Terms
 
 - What are if statements?
 - What are if else statements?
@@ -152,7 +152,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## General coding terms
+## General Coding Terms
 
 - What is a bug?
 - What is debugging?
@@ -188,7 +188,7 @@ Don’t worry too much about this. You just need a general idea of all these thi
 
 ---
 
-## Operating systems
+## Operating Systems
 
 - What is an operating system?
 - What does Windows, macOS, and Linux have in common?

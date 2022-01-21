@@ -7,7 +7,7 @@ parent: High School Competitions
 # Coding HS
 {: .no_toc }
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -42,7 +42,7 @@ Coding is a team partner event so make sure you work well with your partner. Use
 
 Most importantly, practice as much as you can with websites like [LeetCode](https://leetcode.com/) or [HackerRank](https://www.hackerrank.com/).
 
-## Additional tips
+## Additional Tips
 
 - Use an IDE or code editor.
 - [VS Code](https://code.visualstudio.com/), [Atom](https://atom.io/), [Eclipse](https://www.eclipse.org/), and [Notepad++](https://notepad-plus-plus.org/) are all good open-source text-editors you should try out if you haven't already.
@@ -54,7 +54,7 @@ Most importantly, practice as much as you can with websites like [LeetCode](http
 
 - [Coding examples]({{ "/assets/examples/Coding%20Examples%20Andy.zip" | absolute_url }}) Washington state from Andy
 
-## Additional resources
+## Additional Resources
 
 - [HackerRank](https://www.hackerrank.com/). Practice.
 - [HackerRank YouTube](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww). Learn data structures and algorithms useful in competitive programming.

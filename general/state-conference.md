@@ -1,10 +1,10 @@
 ---
 layout: default
-title: \[U] National Conference
+title: \[U] State Conference
 parent: General Information
 ---
 
-# [U] National Conference
+# [U] State Conference
 {: .no_toc }
 
 *Currently under construction*
@@ -18,9 +18,3 @@ parent: General Information
 ---
 
 ## Overview
-
-## Daily Meetings
-
-## Officer Elections
-
-## Rule Change Votes

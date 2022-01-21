@@ -7,7 +7,7 @@ parent: Guides
 # Interviewing 101
 {: .no_toc }
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -21,13 +21,13 @@ Almost every competitor in TSA will eventually have to prepare for and learn to 
 
 ---
 
-## How to get good at being interviewed
+## How to get Good at Being Interviewed
 
 Getting good at interviews requires practice. Get someone like an advisor or mentor to ask questions to prepare. Make sure each person in the interview has a role for what they'll discuss; this helps avoid having people speak over each other.
 
 ---
 
-## Basic questions
+## Basic Questions
 
 - What is your project?
 - Why should I use your product?
@@ -43,7 +43,7 @@ Getting good at interviews requires practice. Get someone like an advisor or men
 
 ---
 
-## Additional tips
+## Additional Tips
 
 - You are expected to wear proper TSA attire for the interview.
 - Make eye contact.
