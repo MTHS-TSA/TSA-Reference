@@ -1,6 +1,6 @@
 ---
 layout: default
-title: \[U] State Conference
+title: "[U] State Conference"
 parent: General Information
 ---
 

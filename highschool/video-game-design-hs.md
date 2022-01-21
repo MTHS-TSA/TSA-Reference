@@ -1,6 +1,6 @@
 ---
 layout: default
-title: \[U] Video Game Design HS
+title: "[U] Video Game Design HS"
 parent: High School Competitions
 ---
 

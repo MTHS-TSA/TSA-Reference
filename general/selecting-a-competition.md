@@ -1,6 +1,6 @@
 ---
 layout: default
-title: \[U] Selecting a Competition
+title: "[U] Selecting a Competition"
 parent: General Information
 ---
 
