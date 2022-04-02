@@ -21,25 +21,25 @@ Teams compete in a 48 hour CTF challenge putting their cybersecurity skills to t
 
 ## Rules
 
-- Max team size of 6 but no minimum.
-- CTF platform is open for 48 hours.
-- Opposing teams may not collaborate or communicate during the competition.
-- Teams may not communicate with people outside the competition for help.
-- Searching on the world wide web for answers or more information during the competition is very much encouraged.
-- Attacking the CTF hosting infrastructure is not allowed.
-- You may not brute force flags.
+- Max team size of 6 but no minimum
+- CTF platform is open for 48 hours (for nationals, states may vary)
+- Opposing teams may not collaborate or communicate during the competition
+- Teams may not communicate with people outside the competition for help
+- Searching on the world wide web for answers or more information during the competition is very much encouraged
+- Attacking the CTF hosting infrastructure is not allowed
+- You may not brute force flags (aka gussing stuff until you get it)
 
 ## Competing
 
 ### What are CTFs?
 
-CTF stands for capture the flag. However, instead of physical flags, competitors are looking for a string of characters recovered from completing some challenge related to cybersecurity. Entering correct flags gets you points the team with the most points at the end of the competition wins.
+CTF stands for capture the flag. However, instead of physical flags, competitors are looking for a string of characters recovered from completing some challenge related to cybersecurity. Entering correct flags gets you points; the team with the most points at the end of the competition wins. Ties in points are broken by whichever team was faster.
 
-There are two main styles of CTF competition including: jeopardy and attack/defense. In attack/defense, teams defend their own servers while trying to attack the opposing teams' servers. In jeopardy style, there are categories like web, forensics, binary, etc. Under the categories are challenges. Each challenge will have a description of what you are trying to solve and possibly a link or file attached. The Technology Student Association hosts jeopardy-style CTFs.
+There are two main styles of CTF competition including: jeopardy and attack/defense. In attack/defense, teams defend their own servers while trying to attack the opposing teams' servers. In jeopardy style, there are categories like web, forensics, binary, etc. Under the categories are challenges. Each challenge will have a description of what you are trying to solve and possibly a link or file attached. The Technology Student Association hosts jeopardy-style CTFs which were desribed in the paragraph above.
 
 ### Setting up a Cyber lab
 
-All you really need to do is install [VirtualBox](https://www.virtualbox.org/) and [create an Ubuntu virtual machine](https://brb.nci.nih.gov/seqtools/installUbuntu.html) - stop before going into the "More About VirtualBox" section, as you don't need to worry about it for now. Everything below in this section is just additional information on why you need to do this, and what other options you have.
+The easiest way to get started is to get a Windows computer, open Powershell, and install WSL2 with the command `wsl --install -d Debian`. If you have a Mac, use a virtual machine which will be explained further in this section. Everything below in this section is additional information on why you need to do this (WTH Linux is), and what other options you have.
 
 Linux is a family of operating systems based on the open-source Linux kernel. It is important that you are familiar with Linux because it is used extensively. The vast majority of servers run a Linux distribution from web hosting to online games. Of the top 500 supercomputers, every single one runs a Linux operating system.
 
@@ -49,7 +49,7 @@ Most run Linux in a virtual machine. A virtual machine basically emulates a comp
 
 Be aware that virtual machines will have lower performance and require more RAM. You need at least 4 gigabytes of RAM on the host with 1 gigabyte allocated to the virtual machine, but that's stretching it. 8 gigabytes of RAM on the host machine with 2 gigabytes allocated to the virtual machine would be good - more RAM would be even better.
 
-If you have a Windows computer, you also have the option of running the [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about). It allows you to install a Linux terminal to run Linux programs on your Windows computer without all the overhead of a virtual machine.
+If you have a Windows computer, you also have the option of running the [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/). It allows you to install a Linux terminal to run Linux programs on your Windows computer without all the overhead of a virtual machine.
 
 It's important to know there isn't a single Linux OS. There are a multitude of Linux distributions or "distros" with their own pros and cons. This is because people took the source code of the Linux kernel to make their own Linux distro. Others split off existing distros modifying it to their liking (also called ["forking"](https://en.wikipedia.org/wiki/Fork_(software_development))).
 
@@ -100,21 +100,21 @@ Many competitors may also run [Python](https://www.python.org/) scripts to perfo
 
 ## Additional Resources
 
-- [WarmupCTF](https://warmup.ctfd.io/).
-- [PicoCTF](https://picoctf.org/).
-- [CTFtime](https://ctftime.org/).
-- [Steganography tools list](https://0xrick.github.io/lists/stego/).
+- [WarmupCTF](https://warmup.ctfd.io/)
+- [PicoCTF](https://picoctf.org/)
+- [CTFtime](https://ctftime.org/)
+- [Steganography tools list](https://0xrick.github.io/lists/stego/)
 - [LiveOverflow](https://liveoverflow.com/). A Youtuber with good info on CTFs and cybersecurity.
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q). Another Youtube channel with good info on CTFs and cybersecurity.
-- [MajorLeagueCyber Resource Library](https://wiki.majorleaguecyber.org/).
-- [CTF Field Guide](https://ctf101.org/).
+- [MajorLeagueCyber Resource Library](https://wiki.majorleaguecyber.org/)
+- [CTF Field Guide](https://ctf101.org/)
 - [Roppers Academy](https://www.hoppersroppers.org/). Courses to learn cybersecurity structured in a clear pathway for beginners.
 - [TryHackMe](https://tryhackme.com/). A complete, interactive learning platform for cybersecurity.
 - [OverTheWire](https://overthewire.org/wargames/). Wargames to learn cybersecurity. The bandit wargame in particular is a good intro to Linux.
-- [CTFlearn](https://ctflearn.com/).
+- [CTFlearn](https://ctflearn.com/)
 - [CryptoHack](https://cryptohack.org/). Challenges to learn cryptography.
-- [Reverse Engineering for Beginners](https://www.begin.re/).
+- [Reverse Engineering for Beginners](https://www.begin.re/)
 - [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html). Intro to binary exploitation and reverse engineering.
-- [x86 Assembly Crash Course (video)](https://youtu.be/75gBFiFtAb8).
+- [x86 Assembly Crash Course (video)](https://youtu.be/75gBFiFtAb8)
 - [crackmes.one](https://crackmes.one/). Practice reverse engineering doing crackme challenges.
 - [SmashTheStack](http://smashthestack.org/wargames.html). Binary exploit war games.
