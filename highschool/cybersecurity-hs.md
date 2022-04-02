@@ -84,7 +84,8 @@ Here are some useful programs and a website to get started.
 
 The list goes on far longer so here are some links to pages with more links to resources.
 
-- [MajorLeagueCyber Recommended Software](https://wiki.majorleaguecyber.org/topics/faq/tools/).
+- [CTF 101](https://ctf101.org/)
+- [MajorLeagueCyber Recommended Software](https://wiki.majorleaguecyber.org/topics/faq/tools/)
 - [Helpful steganography tools](https://0xrick.github.io/lists/stego/). List compiled by 0xRick.
 
 Since at the very least you'll need to read and modify code, a text editor like [VS Code](https://code.visualstudio.com/), [Atom](https://atom.io/), or [Notepad++](https://notepad-plus-plus.org/) would be helpful. If you really want to get comfortable with using the Linux shell, Vim is an option but it's more for on-the-fly edits at least when compared to VS Code.
@@ -103,6 +104,7 @@ Many competitors may also run [Python](https://www.python.org/) scripts to perfo
 - [WarmupCTF](https://warmup.ctfd.io/)
 - [PicoCTF](https://picoctf.org/)
 - [CTFtime](https://ctftime.org/)
+- [CTF 101](https://ctf101.org/)
 - [Steganography tools list](https://0xrick.github.io/lists/stego/)
 - [LiveOverflow](https://liveoverflow.com/). A Youtuber with good info on CTFs and cybersecurity.
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q). Another Youtube channel with good info on CTFs and cybersecurity.
