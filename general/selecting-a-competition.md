@@ -25,23 +25,8 @@ Selecting a competition to compete in is an essential but often difficult decisi
 
 ## Event Rundown MS
 
-### Event Rundown HS
+## Event Rundown HS
 
-### Animatronics
-
-Description:
-
-Applicable Skills:
-
-- Engineering
-- CAD / CNC / 3D printing
-- Coding
-- Design
-- Electronics
-
-Additional Information:
-
-- Team event (up to 6).
-- Long term project.
-- Requires portfolio.
-- Interviews
+| Event | Description | Applicable Skills | Additional Information|
+| --- | --- | --- | --- |
+| Animatronics | Teams of up to 6 create an animatronic robot based around an annual theme then demonstrate it before a panel of judges. | Engineering, CAD / CNC / 3D printing, coding, design, electronics | Team event (up to 6), long term project, requires portfolio, interviews |
