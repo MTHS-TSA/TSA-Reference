@@ -23,12 +23,12 @@ At the bottom of every page is a link that says "Edit this page on Github" which
 
 Here are the steps to make an edit:
 
-1. Make a fork of the project.
-2. Make a branch to make your changes.
-3. Commit your changes.
-4. Submit a pull request to have your changes added to the website.
-5. Make any additional edits if requested by the reviewer.
-6. All done.
+1. Make a fork of the project
+2. Make a branch to make your changes
+3. Commit your changes
+4. Submit a pull request to have your changes added to the website
+5. Make any additional edits if requested by the reviewer
+6. All done
 
 The process is also described in this [Microsoft tutorial](https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/).
 
@@ -38,23 +38,27 @@ The process is also described in this [Microsoft tutorial](https://docs.microsof
 
 Use the AP style when possible unless stated otherwise below:
 
-- Use the Oxford comma.
-- Always use figures even if below 10 for clarity.
+- Use the Oxford comma
+- Always use figures even if below 10 for clarity
+- Don't put periods at the end of a list item
 
 Additionally:
 
-- It is ok to use opinionated language as long as it's accurate and good advice for most.
+- It is ok to use opinionated language as long as it's accurate and good advice for most
+- Use lists and tables often for organizing information
 
 ---
 
-## Adding new Pages
+## Adding New Pages
 
 Pages are categorized as the following:
 
-- **General Information**. Describes specific TSA procedures or events.
-- **High School Competitions**. Information on high school competitions; 1 page per event.
-- **Middle School Competitions**. Information on high school competitions; 1 page per event.
-- **Guides**. Tutorials and information for learning.
+| Category | Usage |
+| --- | --- |
+| **General Information** | Describes specific TSA procedures or events |
+| **High School Competitions** | Information on high school competitions; 1 page per event |
+| **Middle School Competitions** | Information on high school competitions; 1 page per event |
+| **Guides** | Tutorials and information for learning |
 
 Every page must start with YAML information so the website adds it to the navigation.
 Here is an example:
@@ -83,7 +87,7 @@ Subsequent headers should use h2 `##` and children of those headers should use h
 
 Every h2 header should be separated with a horizontal line divider `---`.
 
-Most competition guides will have the following sections though they are removed if there is currently no information under them and subsections may be added:
+Most competition guides will have the sections below though they are removed if there is currently no information under them. Subsections may also be added.
 
 1. Overview
 2. Rules
