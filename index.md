@@ -28,6 +28,6 @@ All pages with [U] are unfinished.
 
 ## Mission
 
-We believe information should be free and we hope everyone takes something useful from this project.
+We believe information should be free, and we hope everyone takes something useful from this project.
 
 All works on this site are licensed under CC0 v1.0. You are free to copy, distribute, and modify without asking for permission.
