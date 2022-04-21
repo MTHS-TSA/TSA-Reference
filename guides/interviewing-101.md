@@ -45,8 +45,8 @@ Getting good at interviews requires practice. Get someone like an advisor or men
 
 ## Additional Tips
 
-- You are expected to wear proper TSA attire for the interview.
-- Make eye contact.
-- Don't say "uhh".
-- Remember to pause before answering to make sure you have a response instead of stumbling through (this will help you avoid saying "uhh").
-- Too many people can make the interview less cohesive. About 2 members to attend is a good number.
+- You are expected to wear proper TSA attire for the interview
+- Make eye contact
+- Don't say "uhh"
+- Remember to pause before answering to make sure you have a response instead of stumbling through (this will help you avoid saying "uhh")
+- Too many people can make the interview less cohesive. About 2 members to attend is a good number
