@@ -1,13 +1,11 @@
 ---
 layout: default
-title: "[U] What is TSA?"
+title: What is TSA?
 parent: General Information
 ---
 
-# [U] What is TSA?
+# What is TSA?
 {: .no_toc }
-
-*Currently under construction*
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -43,9 +41,11 @@ State delegations may have additional events specific to the state.
 
 Officers are elected active TSA members that will manage delegations with the help of an advisor at the chapter level or an executive director for the state or national levels.
 
-- President: presides at all meetings.
-- Vice-President: accepts the responsibility of the president as needed.
-- Secretary: records proceedings of all meetings.
-- Treasurer: manages membership records and finances, often helping with fundraising and ordering materials.
-- Sergeant-at-Arms: prepares and runs meetings according to parliamentary procedure (for formal state and national meetings).
-- Reporter: accumulates information, prepares articles for publishing on TSA, and networks with other chapters.
+| Role | Description |
+| --- | --- |
+| President | Presides at all meetings |
+| Vice-President | Accepts the responsibility of the president as needed |
+| Secretary | Records proceedings of all meetings |
+| Treasurer | Manages membership records and finances, often helping with fundraising and ordering materials |
+| Sergeant-at-Arms | Prepares and runs meetings according to parliamentary procedure (for formal state and national meetings) |
+| Reporter | Accumulates information, prepares articles for publishing on TSA, and networks with other chapters |
