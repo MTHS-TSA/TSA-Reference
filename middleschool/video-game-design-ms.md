@@ -156,7 +156,7 @@ Preparation:
 
 Example questions:
 
-- Why should I play your game?. Tip: talk about what makes your game special and engaging
+- Why should I play your game? Tip: talk about what makes your game special and engaging
 - Why did you pick this art style or engine/tool?
 - What is your game about? Tip: first describe the mechanics and inspiration then the story around the game
 - What did you learn from making your game?
