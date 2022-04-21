@@ -54,4 +54,4 @@ Use as many as you need.
 
 ## Additional Notes
 
-- For webmaster and website design: You must put all your documentation on one of the pages on your website.
+- For webmaster and website design: You must put all your documentation on one of the pages on your website
