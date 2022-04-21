@@ -77,16 +77,16 @@ There are far more sources to check out in the [additional resources](#additiona
 
 Here are some useful programs and a website to get started.
 
-- [CyberChef](https://gchq.github.io/CyberChef/). A website to quickly decode or decrypt strings, analyze files, and more. A fair amount of challenges in the TSA CTF can be solved in seconds with CyberChef mainly in the miscellaneous category.
-- [Wireshark](https://www.wireshark.org/). A packet analysis program. A must have for network and forensics challenges where packet captures are provided.
-- [BurpSuite](https://portswigger.net/). A proxy that allows you to intercept, view, and modify requests. Helpful for some web challenges.
-- [Ghidra](https://ghidra-sre.org/). A disassembler useful for some reversing challenges.
+- [CyberChef](https://gchq.github.io/CyberChef/) - A website to quickly decode or decrypt strings, analyze files, and more. A fair amount of challenges in the TSA CTF can be solved in seconds with CyberChef mainly in the miscellaneous category
+- [Wireshark](https://www.wireshark.org/) - A packet analysis program. A must have for network and forensics challenges where packet captures are provided
+- [BurpSuite](https://portswigger.net/) - A proxy that allows you to intercept, view, and modify requests. Helpful for some web challenges
+- [Ghidra](https://ghidra-sre.org/) - A disassembler useful for some reversing challenges
 
 The list goes on far longer so here are some links to pages with more links to resources.
 
 - [CTF 101](https://ctf101.org/)
 - [MajorLeagueCyber Recommended Software](https://wiki.majorleaguecyber.org/topics/faq/tools/)
-- [Helpful steganography tools](https://0xrick.github.io/lists/stego/). List compiled by 0xRick.
+- [Helpful steganography tools](https://0xrick.github.io/lists/stego/) - List compiled by 0xRick
 
 Since at the very least you'll need to read and modify code, a text editor like [VS Code](https://code.visualstudio.com/), [Atom](https://atom.io/), or [Notepad++](https://notepad-plus-plus.org/) would be helpful. If you really want to get comfortable with using the Linux shell, Vim is an option but it's more for on-the-fly edits at least when compared to VS Code.
 
@@ -94,10 +94,10 @@ Many competitors may also run [Python](https://www.python.org/) scripts to perfo
 
 ## Additional Tips
 
-- CTF creators often put hints within the prompt. This can be anything from highlighting specific words that are also the name of a program which can be used to help, using French or German sounding titles to indicate the use of Vigenère encryption or text encrypted with Enigma, sneaking words into titles hinting what kind of attack you'll have to perform, etc. If anything sounds odd, Google it.
-- Use a program like [Discord](https://discord.com/) or [Slack](https://slack.com/) to communicate with your team.
-- Record notes on challenges. A shared [Google Drive](https://www.google.com/drive/) folder would work.
-- Some teams will have each team member dedicated to specific categories. For example, one person would be in charge of reversing challenges while another would do web. See what works for your team.
+- CTF creators often put hints within the prompt. This can be anything from highlighting specific words that are also the name of a program which can be used to help, using French or German sounding titles to indicate the use of Vigenère encryption or text encrypted with Enigma, sneaking words into titles hinting what kind of attack you'll have to perform, etc. If anything sounds odd, Google it
+- Use a program like [Discord](https://discord.com/) or [Slack](https://slack.com/) to communicate with your team
+- Record notes on challenges. A shared [Google Drive](https://www.google.com/drive/) folder would work
+- Some teams will have each team member dedicated to specific categories. For example, one person would be in charge of reversing challenges while another would do web. See what works for your team
 
 ## Additional Resources
 
@@ -106,17 +106,17 @@ Many competitors may also run [Python](https://www.python.org/) scripts to perfo
 - [CTFtime](https://ctftime.org/)
 - [CTF 101](https://ctf101.org/)
 - [Steganography tools list](https://0xrick.github.io/lists/stego/)
-- [LiveOverflow](https://liveoverflow.com/). A Youtuber with good info on CTFs and cybersecurity.
-- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q). Another Youtube channel with good info on CTFs and cybersecurity.
+- [LiveOverflow](https://liveoverflow.com/) - A Youtuber with good info on CTFs and cybersecurity
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) - Another Youtube channel with good info on CTFs and cybersecurity
 - [MajorLeagueCyber Resource Library](https://wiki.majorleaguecyber.org/)
 - [CTF Field Guide](https://ctf101.org/)
-- [Roppers Academy](https://www.hoppersroppers.org/). Courses to learn cybersecurity structured in a clear pathway for beginners.
-- [TryHackMe](https://tryhackme.com/). A complete, interactive learning platform for cybersecurity.
-- [OverTheWire](https://overthewire.org/wargames/). Wargames to learn cybersecurity. The bandit wargame in particular is a good intro to Linux.
+- [Roppers Academy](https://www.hoppersroppers.org/) - Courses to learn cybersecurity structured in a clear pathway for beginners
+- [TryHackMe](https://tryhackme.com/) - A complete, interactive learning platform for cybersecurity
+- [OverTheWire](https://overthewire.org/wargames/) - Wargames to learn cybersecurity. The bandit wargame in particular is a good intro to Linux
 - [CTFlearn](https://ctflearn.com/)
-- [CryptoHack](https://cryptohack.org/). Challenges to learn cryptography.
+- [CryptoHack](https://cryptohack.org/) - Challenges to learn cryptography
 - [Reverse Engineering for Beginners](https://www.begin.re/)
-- [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html). Intro to binary exploitation and reverse engineering.
+- [Nightmare](https://guyinatuxedo.github.io/00-intro/index.html) - Intro to binary exploitation and reverse engineering
 - [x86 Assembly Crash Course (video)](https://youtu.be/75gBFiFtAb8)
-- [crackmes.one](https://crackmes.one/). Practice reverse engineering doing crackme challenges.
-- [SmashTheStack](http://smashthestack.org/wargames.html). Binary exploit war games.
+- [crackmes.one](https://crackmes.one/) - Practice reverse engineering doing crackme challenges
+- [SmashTheStack](http://smashthestack.org/wargames.html) - Binary exploit war games
