@@ -26,12 +26,12 @@ Competitors create a game following the annual theme. The top 12 semi-finalists 
 
 ### General
 
-- Team size up to 6.
+- Team size up to 6
 
 ### Game
 
-- Must submit as a URL. Games that require a download or permission will not be judged.
-- No weapons or other depictions that could be seen as inappropriate are banned (though enforcement is often lax).
+- Must submit as a URL. Games that require a download or permission will not be judged
+- No weapons or other depictions that could be seen as inappropriate are banned (though enforcement is often lax)
 
 ### Documentation
 
@@ -46,13 +46,13 @@ Competitors create a game following the annual theme. The top 12 semi-finalists 
 
 ## Competing
 
-1. Form a team.
-2. Read the rules.
-3. Organize documentation and assets.
-4. Brainstorm ideas & select a game engine.
-5. Draft storyboards.
-6. Create the game.
-7. Playtest.
+1. Form a team
+2. Read the rules
+3. Organize documentation and assets
+4. Brainstorm ideas & select a game engine
+5. Draft storyboards
+6. Create the game
+7. Playtest
 
 ---
 
