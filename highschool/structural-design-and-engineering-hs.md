@@ -1,10 +1,10 @@
 ---
 layout: default
-title: [U] Structural Design and Engineering HS
+title: '[U] Structural Design and Engineering HS'
 parent: High School Competitions
 ---
 
-# Structural Design and Engineering
+# [U] Structural Design and Engineering
 {: .no_toc }
 
 *Currently under construction*
