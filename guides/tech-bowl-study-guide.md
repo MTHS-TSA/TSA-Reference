@@ -72,35 +72,37 @@ This is a study guide for the technology bowl competition. This can be used to s
 
 ### Chemistry
 
-What is an atom?
-What is an element?
-What is a molecule?
-What is a species?
-What is an ion?
-What is a cation?
-What is an anion?
+- What is an atom?
+- What is an element?
+- What is a molecule?
+- What is a species?
+- What is an ion?
+- What is a cation?
+- What is an anion?
 
-What is a noble gas?
-What is a metal?
-What is a salt?
+- What is a noble gas?
+- What is a metal?
+- What is a salt?
 
-What are ionic bonds?
-What are covalent bonds?
-What are metallic bonds?
-What are dipole-dipole bonds?
-What are intermolecular forces?
-What are intramolecular forces?
-What are London dispersion forces?
-What is a dipole?
-What is an induced dipole?
-What is a polar molecule?
-What is a non-polar molecule?
+- What are ionic bonds?
+- What are covalent bonds?
+- What are metallic bonds?
+- What are dipole-dipole bonds?
+- What are intermolecular forces?
+- What are intramolecular forces?
+- What are London dispersion forces?
+- What is a dipole?
+- What is an induced dipole?
+- What is a polar molecule?
+- What is a non-polar molecule?
 
-What is combustion?
-What is a redox reaction?
-What is a precipitation reaction?
+- What is combustion?
+- What is a redox reaction?
+- What is a precipitation reaction?
 
 ### Biology
+
+- What is 
 
 ### Medicine
 
@@ -120,9 +122,54 @@ What is a precipitation reaction?
 
 ### Computer Hardware
 
+- What is a Central Processing Unit (CPU)?
+- What is Random Access Memory (RAM)?
+- What is cache?
+- What is WiFi?
+- What is Bluetooth?
+- What is the Universal Serial Bus (USB) protocol?
+- What is a register?
+
 ### Programming
 
+- What is assembly?
+- What is a low-level language?
+- What is a high-level language?
+- What is a compiler?
+- What is object-oriented programming?
+- What is JavaScript?
+- What is Python?
+- What is C?
+- What is C++?
+- What is Java?
+- What is HTML?
+- What is SQL?
+- What are functions?
+- What is an integer?
+- What is a string?
+- What is a floating point number?
+- What is a variable?
+- What is a boolean?
+- What is a conditional?
+- What is an if statement?
+- What a for loop?
+- What is a while loop?
+- What an OR gate?
+- What is an AND gate?
+- What is a NOT gate?
+- What is an XOR gate?
+- What is an operator?
+
 ### Circuitry
+
+- What is a switch?
+- What is a resistor?
+- What is a capacitor?
+- What is a diode?
+- What is a light emitting diode (LED)?
+- What is a parallel circult?
+- What is a series circuit?
+- What is a battery?
 
 ---
 
