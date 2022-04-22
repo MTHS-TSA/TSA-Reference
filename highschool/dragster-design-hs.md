@@ -4,7 +4,7 @@ title: '[U] Dragster Design HS'
 parent: High School Competitions
 ---
 
-# [U] Dragster Design
+# [U] Dragster Design HS
 {: .no_toc }
 
 *Currently under construction*
