@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Dragster Design HS
+title: '[U] Dragster Design HS'
 parent: High School Competitions
 ---
 
-# Dragster Design
+# [U] Dragster Design
+{: .no_toc }
+
+*Currently under construction*
 
 ## Table of Contents
 {: .no_toc .text-delta }
