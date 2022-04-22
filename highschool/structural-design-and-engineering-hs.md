@@ -4,7 +4,7 @@ title: '[U] Structural Design and Engineering HS'
 parent: High School Competitions
 ---
 
-# [U] Structural Design and Engineering
+# [U] Structural Design and Engineering HS
 {: .no_toc }
 
 *Currently under construction*
