@@ -4,7 +4,7 @@ title: '[U] Technology Bowl HS'
 parent: High School Competitions
 ---
 
-# [U] Technology Bowl
+# [U] Technology Bowl HS
 {: .no_toc }
 
 *Currently under construction*
