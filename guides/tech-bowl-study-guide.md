@@ -53,9 +53,9 @@ This is a study guide for the technology bowl competition. This can be used to s
     function showAnswer(ele) {
         if (event.key === 'Enter') {
             var lengthRequirement = ele.value.length < 40;
-            var splitCheck = ele.value.toLowerCase().split().includes(ANSWER.toLowerCase());
-            if (ANSWER.toLowerCase().split(',').length > 1) {
-                parenthesesCheck = ANSWER.toLowerCase().split(',')[1] == ele.value.toLowerCase();
+            var splitCheck = ele.value.toLowerCase().includes(ANSWER.toLowerCase());
+            if (ANSWER.toLowerCase().split('(').length > 1) {
+                parenthesesCheck = ANSWER.toLowerCase().split('(')[1].split(')')[0] == ele.value.toLowerCase();
             } else {
                 parenthesesCheck = false;
             }
