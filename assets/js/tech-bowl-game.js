@@ -31,6 +31,7 @@ function showAnswer(ele) {
 
 $.get('{{ site.url }}/{{ site.baseurl }}/assets/misc/sample-tech-bowl.csv', function (raw_data, textStatus, jqXHR) {
     DATA = $.csv.toObjects(raw_data);
-})
 
-newQuestion();
+    // Make sure this doesn't run early
+    newQuestion();
+})
