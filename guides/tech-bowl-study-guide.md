@@ -30,8 +30,8 @@ This is a study guide for the technology bowl competition. This can be used to s
 <input type="text" placeholder="Answer" id="answer" onkeydown="answer(this)"/>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<script src='{{ "/assets/js/jquery.csv.min.css" | relative_url }}'></script>
-<script>$.get('/{{ baseurl }}/assets/misc/sample-tech-bowl.csv', function (data, textStatus, jqXHR){
+<script src='{{ "/assets/js/jquery.csv.min.js" | relative_url }}'></script>
+<script>$.get('{{ url }}/{{ baseurl }}/assets/misc/sample-tech-bowl.csv', function (data, textStatus, jqXHR){
     alert('status: ' + textStatus + ', data:' + data);
 })
 //var data = $.csv.toObjects("");
