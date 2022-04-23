@@ -67,8 +67,8 @@ This is a study guide for the technology bowl competition. This can be used to s
     }
     $.get('{{ site.url }}/{{ site.baseurl }}/assets/misc/sample-tech-bowl.csv', function (raw_data, textStatus, jqXHR) {
         DATA = $.csv.toObjects(raw_data);
+        newQuestion();
     });
-    newQuestion();
 </script>
 
 ---
