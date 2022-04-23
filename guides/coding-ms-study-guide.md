@@ -17,7 +17,7 @@ parent: Guides
 
 ## Overview
 
-This guide was created for the [Coding MS challenge](https://j-nac.github.io/TSA-Reference/middleschool/coding-ms.html).
+This guide was created for the [Coding MS challenge]({{ "/middleschool/coding-ms" | relative_url }}).
 Answer the questions for practice.
 Don’t worry too much about this. You just need a general idea of all these things. Around 70% knowledge and you should pass easily.
 
