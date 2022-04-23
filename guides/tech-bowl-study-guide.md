@@ -26,12 +26,11 @@ This is a study guide for the technology bowl competition. This can be used to s
 ## Practice Game
 
 <p id="p-answer">The correct answer was: <span id="answer"></span></p>
-<p>Question: <span id="question">Loading...</span></p>
-<p>Category: <span id="category">Loading...</span></p>
+<p id="p-question">Question: <span id="question">Loading...</span></p>
+<p id="p-category">Category: <span id="category">Loading...</span></p>
 <p>Points: <span id="points">0</span></p>
 
 <input type="text" placeholder="Answer" id="user-input" onkeydown="showAnswer(this)"/>
-<br>
 <button id="next-btn" onclick="newQuestion()">Next</button>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
@@ -41,8 +40,8 @@ This is a study guide for the technology bowl competition. This can be used to s
     var ANSWER;
     var POINTS = 0;
     function newQuestion() {
-        $( "#question" ).show();
-        $( "#category" ).show();
+        $( "#p-question" ).show();
+        $( "#p-category" ).show();
         $( "#user-input ").show();
         $( "#p-answer" ).hide();
         $( "#next-btn" ).hide();
@@ -56,13 +55,15 @@ This is a study guide for the technology bowl competition. This can be used to s
             if (ele.value == ANSWER) {
                 POINTS++;
             }
-            $( "#question" ).hide();
-            $( "#category" ).hide();
+            $( "#p-question" ).hide();
+            $( "#p-category" ).hide();
             $( "#user-input" ).hide();
             $( "#p-answer" ).show();
             $( "#next-btn" ).show();
             $( "#answer" ).text(ANSWER);
             $( "#points" ).text(POINTS);
+
+            ele.value = "";
         }
     }
     $.get('{{ site.url }}/{{ site.baseurl }}/assets/misc/sample-tech-bowl.csv', function (raw_data, textStatus, jqXHR) {
