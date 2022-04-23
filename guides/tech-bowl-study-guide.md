@@ -29,7 +29,12 @@ This is a study guide for the technology bowl competition. This can be used to s
 <p id="category">Loading...</p>
 <input type="text" placeholder="Answer" id="answer" onkeydown="answer(this)"/>
 
-<script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src='{{ "/assets/js/jquery.csv.min.css" | relative_url }}'></script>
+<script>$.get('/{{ baseurl }}/assets/misc/sample-tech-bowl.csv', function (data, textStatus, jqXHR){
+    alert('status: ' + textStatus + ', data:' + data);
+})
+//var data = $.csv.toObjects("");
     function answer(ele) {
     if(event.key === 'Enter') {
         alert(ele.value);
