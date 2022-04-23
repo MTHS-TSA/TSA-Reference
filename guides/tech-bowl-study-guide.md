@@ -36,7 +36,40 @@ This is a study guide for the technology bowl competition. This can be used to s
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script src='{{ "/assets/js/jquery.csv.min.js" | relative_url }}'></script>
-<script src='{{ "assets/js/tech-bowl-game.js" | relative_url }}'></script>
+<script>
+    var DATA;
+    var ANSWER;
+    var POINTS = 0;
+    function newQuestion() {
+        $( "#question" ).show();
+        $( "#category" ).show();
+        $( "#user-input ").show();
+        $( "#p-answer" ).hide();
+        $( "#next-btn" ).hide();
+        var selectedQuestion = DATA[Math.floor(Math.random() * DATA.length)];
+        $( "span#question" ).text(selectedQuestion["Question"]);
+        $( "span#category" ).text(selectedQuestion["Category"]);
+        ANSWER = selectedQuestion["Answer"];
+    }
+    function showAnswer(ele) {
+        if (event.key === 'Enter') {
+            if (ele.value == ANSWER) {
+                POINTS++;
+            }
+            $( "#question" ).hide();
+            $( "#category" ).hide();
+            $( "#user-input" ).hide();
+            $( "#p-answer" ).show();
+            $( "#next-btn" ).show();
+            $( "#answer" ).text(ANSWER);
+            $( "#points" ).text(POINTS);
+        }
+    }
+    $.get('{{ site.url }}/{{ site.baseurl }}/assets/misc/sample-tech-bowl.csv', function (raw_data, textStatus, jqXHR) {
+        DATA = $.csv.toObjects(raw_data);
+    });
+    newQuestion();
+</script>
 
 ---
 
