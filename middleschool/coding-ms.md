@@ -61,7 +61,7 @@ Trivia questions are all about memorizing general facts about computers and prog
 
 Learning resources:
 
-- [Coding MS Study Guide](https://j-nac.github.io/TSA-Reference/guides/coding-ms-study-guide.html)
+- [Coding MS Study Guide]({{ "/guides/coding-ms-study-guide" | relative_url }})
 - [Crash Course Computer Science YouTube Playlist](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - Lots of extra but useful information. Don't bother taking notes
 
 Code comprehension questions are about looking at a piece of code and figuring out how it works. To prepare, practice programming with languages like Python or Javascript.
