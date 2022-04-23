@@ -52,7 +52,10 @@ This is a study guide for the technology bowl competition. This can be used to s
     }
     function showAnswer(ele) {
         if (event.key === 'Enter') {
-            if (ele.value == ANSWER) {
+            var lengthRequirement = ele.value.length < 40
+            var splitCheck = ele.value.toLowerCase().split().includes(ANSWER.toLowerCase())
+            var parenthesesCheck = "\((\w+)\)".test(ANSWER) && (ele.value.toLowerCase() == "\((\w+)\)".exec(ANSWER.toLowerCase()))
+            if (lengthRequirement && (splitCheck || parenthesesCheck)) {
                 POINTS++;
             }
             $( "#p-question" ).hide();
