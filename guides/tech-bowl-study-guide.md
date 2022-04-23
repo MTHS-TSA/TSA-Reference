@@ -23,6 +23,22 @@ This is a study guide for the technology bowl competition. This can be used to s
 
 ---
 
+## Practice Game
+
+<p id="question">Loading...</p>
+<p id="category">Loading...</p>
+<input type="text" placeholder="Answer" id="answer" onkeydown="answer(this)"/>
+
+<script>
+    function answer(ele) {
+    if(event.key === 'Enter') {
+        alert(ele.value);
+    }
+}
+</script>
+
+---
+
 ## Science
 
 ### General
