@@ -178,7 +178,7 @@ Example questions:
 ## Examples
 
 - [Cosmo Cat](https://scratch.mit.edu/projects/357094073/) by JGJ-inc - Edmonds-Shoreline District Regionals 2019-2020 1st place
-- [Cosmo Cat Documentation]({{ "/assets/examples/cosmo-cat-documentation.pdf" | absolute_url }})
+- [Cosmo Cat Documentation]({{ "/assets/examples/cosmo-cat-documentation.pdf" | relative_url }})
 - [Knight's Ambition](https://scratch.mit.edu/projects/285518200/) by furiousalightnin - Washington State 2018-2019 3rd place
 - [Hoodieboy and the Tower of Puzzles](https://scratch.mit.edu/projects/285518016/) by JGJ-inc - Washington State 2018-2019 2nd place
 

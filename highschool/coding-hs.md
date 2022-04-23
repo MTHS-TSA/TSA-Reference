@@ -52,8 +52,8 @@ Most importantly, practice as much as you can with websites like [LeetCode](http
 
 ## Examples
 
-- [Coding examples]({{ "/assets/examples/Coding%20Examples%20Andy.zip" | absolute_url }}) Washington state and nationals from Andy
-- [Coding example]({{ "/assets/examples/wtsa-coding-example-2022.zip" | absolute_url }}) Washington state Jakob and John 2022
+- [Coding examples]({{ "/assets/examples/Coding%20Examples%20Andy.zip" | relative_url }}) Washington state and nationals from Andy
+- [Coding example]({{ "/assets/examples/wtsa-coding-example-2022.zip" | relative_url }}) Washington state Jakob and John 2022
 
 ## Additional Resources
 
