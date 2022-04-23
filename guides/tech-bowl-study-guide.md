@@ -65,7 +65,8 @@ function showAnswer(ele) {
         $("#user-input").hide();
         $("#p-answer").show();
         $("#next-btn").show();
-        $("#answer").text(ANSWER)
+        $("#answer").text(ANSWER);
+        $("#points").text(POINTS);
     }
 }
 </script>
