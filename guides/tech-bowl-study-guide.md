@@ -25,8 +25,8 @@ This is a study guide for the technology bowl competition. This can be used to s
 
 ## Practice Game
 
-<p id="question">Loading...</p>
-<p id="category">Loading...</p>
+<p>Question: <span id="question">Loading...</span></p>
+<p>Category: <span id="category">Loading...</span></p>
 <input type="text" placeholder="Answer" id="answer" onkeydown="answer(this)"/>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
@@ -34,8 +34,8 @@ This is a study guide for the technology bowl competition. This can be used to s
 <script>$.get('{{ site.url }}/{{ site.baseurl }}/assets/misc/sample-tech-bowl.csv', function (raw_data, textStatus, jqXHR){
     var data = $.csv.toObjects(raw_data);
     var selectedQuestion = data[Math.floor(Math.random() * data.length)];
-    $("p#question").text(selectedQuestion["Question"]);
-    $("p#category").text(selectedQuestion["Category"]);
+    $("span#question").text(selectedQuestion["Question"]);
+    $("span#category").text(selectedQuestion["Category"]);
 })
 //;
     function answer(ele) {
