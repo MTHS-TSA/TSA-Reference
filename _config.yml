@@ -1,13 +1,13 @@
 title: TSA Reference
 description: An open resource for learning about TSA
 baseurl: "/TSA-Reference"
-url: "https://j-nac.github.io"
+url: "https://mths-tsa.github.io/TSA-Reference/"
 
 remote_theme: pmarsceill/just-the-docs
 
 aux_links:
   "TSA Reference on GitHub":
-    - "//github.com/j-nac/TSA-Reference"
+    - "//github.com/mths-tsa/TSA-Reference"
 
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -17,6 +17,6 @@ last_edit_time_format: "%b %e, %Y at %I:%M %p" # uses ruby's time format: https:
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/j-nac/TSA-Reference"
+gh_edit_repository: "https://github.com/mths-tsa/TSA-Reference"
 gh_edit_branch: "main"
 gh_edit_view_mode: "edit"
