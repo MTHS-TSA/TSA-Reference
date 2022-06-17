@@ -46,13 +46,16 @@ Competitors create a game following the annual theme. The top 12 semi-finalists 
 
 ## Competing
 
-1. Form a team
-2. Read the rules
-3. Organize documentation and assets
-4. Brainstorm ideas & select a game engine
-5. Draft storyboards
-6. Create the game
-7. Playtest
+### Form a team
+
+While teams may have up to 6 members, it is not necesssarily advantageous to have a large team as it takes exponentially more organization as scale increases. Also take into consideration how members will contribute to a team. Typically, this means dividing people between artists and programmers. There are no "idea people" who contribute nothing but say what they want the game to look like. Everyone has good ideas.
+
+### Read the rules
+### Organize documentation and assets
+### Brainstorm ideas & select a game engine
+### Draft storyboards
+### Create the game
+### Playtest
 
 ---
 
