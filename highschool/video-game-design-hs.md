@@ -66,7 +66,9 @@ As soon as your team is assembled, you should create the work log and fill it ou
 
 ### Create the MVP
 
-MVP stands for "minimum viable product." As the name implies, the MVP is bones of the game - the base mechanics. This video by Extra Credits succinctly explains MVPs in detail and why they're critical, but in short, they're important for testing whether your game idea has value before you invest too much in it.
+MVP stands for "minimum viable product." As the name implies, the MVP is bones of the game - the base mechanics. [This video](https://youtu.be/UvCri1tqIxQ) by Extra Credits succinctly explains MVPs in detail and why they're critical, but in short, they're important for testing whether your game idea has value before you invest too much in it.
+
+At this step, your team may also decide what tools to use. Common game engines are Unity, Unreal Engine, and Godot. You'll also need a source code management tool (basically something to allow you to collaborate and manage code changes); Git with Github is a common solution for larger teams. If you're making a 3d game, Blender is the most common too for creating models.
 
 ### Playtest
 
@@ -80,15 +82,14 @@ Adjust according to the feedback. Add features and flesh out your game. Then, se
 
 ## Additional Tips
 
-
-
-
-
-
+- It is far easier to make a decent game in 2d
+- If you're using Git, merge conflicts are a nightmare. Ensure developers aren't changing the same code files and keep object changes to a minimum
 
 ---
 
 ## Examples
+
+- Delta Trooper: 2021 by Axiom Studios - 2nd place at Washington State conference and 7th place at 2022 National Conference
 
 ---
 
