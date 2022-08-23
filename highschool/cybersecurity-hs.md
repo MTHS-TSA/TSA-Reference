@@ -7,9 +7,9 @@ parent: High School Competitions
 # Cybersecurity HS [Removed]
 {: .no_toc }
 
-Note: Cybersecurity HS was removed following the 2022 national conference. Thank you for all the memories; may we advocate for cyber events in the future.
+*Note: Cybersecurity HS was removed following the 2022 national conference. Thank you for all the memories; may we advocate for cyber events in the future.*
 
-~ jnac
+*~ jnac*
 
 ---
 
@@ -33,7 +33,7 @@ Teams compete in a 48 hour CTF challenge putting their cybersecurity skills to t
 - Teams may not communicate with people outside the competition for help
 - Searching on the world wide web for answers or more information during the competition is very much encouraged
 - Attacking the CTF hosting infrastructure is not allowed
-- You may not brute force flags (aka gussing stuff until you get it)
+- You may not brute force flags (aka guessing stuff until you get it)
 
 ## Competing
 
@@ -41,7 +41,7 @@ Teams compete in a 48 hour CTF challenge putting their cybersecurity skills to t
 
 CTF stands for capture the flag. However, instead of physical flags, competitors are looking for a string of characters recovered from completing some challenge related to cybersecurity. Entering correct flags gets you points; the team with the most points at the end of the competition wins. Ties in points are broken by whichever team was faster.
 
-There are two main styles of CTF competition including: jeopardy and attack/defense. In attack/defense, teams defend their own servers while trying to attack the opposing teams' servers. In jeopardy style, there are categories like web, forensics, binary, etc. Under the categories are challenges. Each challenge will have a description of what you are trying to solve and possibly a link or file attached. The Technology Student Association hosts jeopardy-style CTFs which were desribed in the paragraph above.
+There are two main styles of CTF competition including: jeopardy and attack/defense. In attack/defense, teams defend their own servers while trying to attack the opposing teams' servers. In jeopardy style, there are categories like web, forensics, binary, etc. Under the categories are challenges. Each challenge will have a description of what you are trying to solve and possibly a link or file attached. The Technology Student Association hosts jeopardy-style CTFs which were described in the paragraph above.
 
 ### Setting up a Cyber lab
 
