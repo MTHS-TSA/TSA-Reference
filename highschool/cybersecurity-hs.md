@@ -7,7 +7,7 @@ parent: High School Competitions
 # Cybersecurity HS [Removed]
 {: .no_toc }
 
-Note: Cybersecurity HS was removed following the 2022 national conference. Thank you for all the memories; may we advocate for cyber events in the future
+Note: Cybersecurity HS was removed following the 2022 national conference. Thank you for all the memories; may we advocate for cyber events in the future.
 
 ~ jnac
 
