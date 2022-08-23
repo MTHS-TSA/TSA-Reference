@@ -19,6 +19,8 @@ parent: High School Competitions
 
 ## Overview
 
+Teams of 2 take a knowledge test on forensics. Semi-finalists are then taken to a mock crime scene to exercise real-world forensics techniques while being evaluated by judges.
+
 ---
 
 ## Rules
@@ -26,6 +28,24 @@ parent: High School Competitions
 ---
 
 ## Competing
+
+### Test
+
+The test will cover the following topics:
+
+- The history of forensics
+- Forensics organizations
+- Practices
+- Law
+- Fingerprinting
+- Bloodstain pattern analysis
+- Pathology
+- Firearms
+
+Note that questions on firearms are typically limited.
+
+### On-site
+
 
 ---
 
