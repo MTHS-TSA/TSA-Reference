@@ -47,6 +47,7 @@ Note that questions on firearms are typically limited.
 ### On-site
 
 
+
 ---
 
 ## Additional Tips

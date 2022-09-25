@@ -48,13 +48,13 @@ Competitors create a game based on an annual theme. The top 12 semi-finalists ar
 
 ### Form a team
 
-While teams may have up to 6 members, it is not necesssarily advantageous to have a large team as it takes exponentially more organization as scale increases. Also take into consideration how members will contribute to a team. Typically, this means dividing people between artists and programmers. There are no "idea people" who contribute nothing but say what they want the game to look like. Everyone has good ideas.
+While teams may have up to 6 members, it is not necessarily advantageous to have a large team as it takes exponentially more organization as scale increases. Also take into consideration how members will contribute to a team. Typically, this means dividing people between artists and programmers. There are no "idea people" who contribute nothing but say what they want the game to look like. Everyone has good ideas.
 
 ### Read the rules
 
 Every year, event rules are updated. Your advisor should have access to the new rules via the the [TSA membership site](https://tsamembership.registermychapter.com). Rules surrounding the game itself are fairly straightforward: no inappropriate content and upload the game as a web URL playable in browser. The portfolio is where you need to pay absolute attention. Judges want detailed documentation in the Plan of Work Log, a dense Purpose and Description, and lots of storyboards.
 
-As soon as your team is assembled, you should create the work log and fill it out for any contribution to the game - code, art, music, docmentation work, meetings, etc. Make sure to add comments for every entry.
+As soon as your team is assembled, you should create the work log and fill it out for any contribution to the game - code, art, music, documentation work, meetings, etc. Make sure to add comments for every entry.
 
 ### Organize documentation and assets
 
