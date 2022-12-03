@@ -21,6 +21,6 @@ parent: General Information
 
 ## Daily Meetings
 
-## Officer Elections
+There will be an opening session, business meeting, and awards ceremony.
 
-## Rule Change Votes
+## Officer Elections

@@ -120,18 +120,18 @@ Highschool documentation is expected to be highly formal. However, at the middle
 
 Cover page:
 
-- You may use [this template]({{ "/assets/documents/cover-page-template.odt" | absolute_url }}) and replace with appropriate information or make your own
+- You may use [this template]({{ "/assets/documents/cover-page-template.docx" | absolute_url }}) and replace with appropriate information or make your own
 - Copyright checklist [official template](https://tsaweb.org/docs/default-source/themes-and-problems-2018-2019/2021-2022/copyright-checklist.pdf?sfvrsn=ce8e2d97_2)
 
 Storyboard:
 
 - Pages as needed
-- [Unofficial template](http://srjcstaff.santarosa.edu/~kthornle/apgr66/storyboard.PDF) not created under this project
+- [Unofficial template]({{ "/assets/documents/storyboard-template.pdf" | absolute_url }})
 
 Purpose & description:
 
 - Two pages
-- [Template]({{ "/assets/documents/purpose-and-description.odt" | absolute_url }})
+- [Template]({{ "/assets/documents/purpose-and-description-template.docx" | absolute_url }})
 
 Plan of work log:
 

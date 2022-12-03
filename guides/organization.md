@@ -32,11 +32,11 @@ Create a folder where you'll put all your files for the specific event you're co
 Organize your folder as such:
 
 - Event Name YYYY-YYYY
-  - Documentation. Store all your documentation
-  - Assets. Store all files used for your project. Ex. for video game design, you'd store all sprites and music there.
-  - Planning. All files where you brainstorm ideas for your project.
-  - Submissions. Backups of submissions to track how your project has progressed from regionals to states and on.
-  - Meetings. Keep notes for all your meetings. Applies to teams only for obvious reasons.
+  - Assets - Store all files used for your project. Ex. for video game design, you'd store all sprites and music there
+  - Documentation - Store all your documentation for your portfolio
+  - Meetings - Keep notes for all your meetings. Applies to teams only for obvious reasons
+  - Planning - All files where you brainstorm ideas for your project.
+  - Submissions - Backups of submissions to track how your project has progressed from regionals to states and on
 
 For all events that require a work log, make sure to have a document to save the information as you go so you don't have to backfill.
 
@@ -46,7 +46,7 @@ Name: Meeting Agenda & Notes (MM/DD)
 
 Contents:
 
-```
+```txt
 Date: MM/DD/YYYY
 Attendees: JD, SB, LA
 
@@ -84,7 +84,7 @@ Meetings:
 
 ## Management
 
-The easiest solution is simply making a document to record upcoming tasks, who is assigned to the task, and the deadline.
+The easiest solution is simply making a document to record upcoming tasks, who is assigned to the task, and the deadline. Further levels of organization are iffy -- in being more organized, they may bog down the team from doing actual work.
 
 The next level up is a [kanban board](https://en.wikipedia.org/wiki/Kanban_board). A kanban board uses a sticky note for each task which is placed in a column based on the progress. [Trello](https://trello.com/) is a commonly used digital kanban board solution.
 
@@ -98,4 +98,4 @@ A [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is another way to tra
 
 You'll notice the article above uses the command line which may be overcomplicated for some. [Github Desktop](https://desktop.github.com/) is a git client that works with Github which streamlines everything so you don't have to use the command line.
 
-For smaller projects that don't require special programs like Unity, [repl.it](https://replit.com/) is easier to use. Just make a new project and add whomever you're working with as a collaborator. It allows for live editing.
+For smaller projects that don't require special programs like Unity, [Repl.it](https://replit.com/) is easier to use. Just make a new project and add whomever you're working with as a collaborator. It allows for live editing.

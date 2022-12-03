@@ -24,7 +24,7 @@ To assemble your portfolio, you'll probably need some program to help. [Dochub](
 
 ## Cover Page
 
-The cover page should have your ID or team ID, the date of the conference, the name of the event, and the name of the conference itself. It is also recommended you add the TSA logo to it. [Cover page template here](/assets/documents/cover-page-template.odt).
+The cover page should have your ID or team ID, the date of the conference, the name of the event, and the name of the conference itself. It is also recommended you add the TSA logo to it. [Cover page template here]({{ /assets/documents/cover-page-template.docx | absolute_url }}).
 
 ---
 
@@ -33,6 +33,8 @@ The cover page should have your ID or team ID, the date of the conference, the n
 Storyboards are basically a rough plan before you execute your project. To make them draw lines on a sheet of paper dividing it into 3x2 boxes. In each box, sketch a scene or whatever is most applicable to your event. In each box under each drawing, you must also provide a description. Digital storyboards are discouraged if not grounds to be disqualified. They should be done very roughly on paper typically with a pencil or pen. Scan then for your portfolio.
 
 It is recommended that you do not backfill this. Do it before you actually start creating your project. Use as many as you need; some teams may even have dozens of pages.
+
+[Template here]({{ "/assets/documents/storyboard-template.pdf" | absolute_url }}).
 
 ---
 
